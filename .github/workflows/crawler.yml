@@ -1,12 +1,11 @@
 name: Weibo-Hot-Crawler
-
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '*/5 * * * *'
+    - cron: '*/15 * * * *'
 
 jobs:
-  time:
+  crawler:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
@@ -34,5 +33,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
