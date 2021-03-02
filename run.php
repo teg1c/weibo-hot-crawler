@@ -12,7 +12,7 @@ $regular = '<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>';
 $time = date('Y-m-d H:i:s');
 $readMeHead = <<< Eof
 # Weibo Hot Crawler \n
-![Refresh](https://github.com/teg1c/weibo-hot-crawler/workflows/Refresh/badge.svg)\n\n
+\n
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP \n\n
 ## 微博今日热榜 更新于 {$time} \n
 Eof;
