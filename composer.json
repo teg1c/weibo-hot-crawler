@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "jaeger/querylist": "^4.2"
+    }
+}
