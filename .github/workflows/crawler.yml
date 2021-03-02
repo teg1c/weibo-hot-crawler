@@ -1,0 +1,38 @@
+name: Weibo-Hot-Crawler
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '*/5 * * * *'
+
+jobs:
+  time:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v2
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          extensions: swoole
+
+      - name: Update
+        run: |
+          php ./run.php
+        shell: bash
+
+      - name: commit
+        run: |
+          git config --global user.email teg1c@foxmail.com
+          git config --global user.name github-actions
+          git pull
+          git add .
+          git commit -m "Crawler By Github Actions"  -a
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
