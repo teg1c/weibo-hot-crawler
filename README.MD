@@ -5,7 +5,7 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2021-07-20 06:31:05 
+## 微博今日热榜 更新于 2021-07-20 06:49:59 
 1. [张陶被批捕](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E9%99%B6%E8%A2%AB%E6%89%B9%E6%8D%95%23&amp;Refer=top)
 
 1. [刘丹称杨幂小糯米因疫情一年没见](https://s.weibo.com//weibo?q=%23%E5%88%98%E4%B8%B9%E7%A7%B0%E6%9D%A8%E5%B9%82%E5%B0%8F%E7%B3%AF%E7%B1%B3%E5%9B%A0%E7%96%AB%E6%83%85%E4%B8%80%E5%B9%B4%E6%B2%A1%E8%A7%81%23&amp;Refer=top)
@@ -58,11 +58,11 @@
 
 1. [是少女Kiki呀 吴亦凡](https://s.weibo.com//weibo?q=%E6%98%AF%E5%B0%91%E5%A5%B3Kiki%E5%91%80%20%E5%90%B4%E4%BA%A6%E5%87%A1&amp;Refer=top)
 
-1. [原生家庭很糟糕是什么体验](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%BE%88%E7%B3%9F%E7%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&amp;Refer=top)
-
 1. [想飞上天的男孩真要飞上天了](https://s.weibo.com//weibo?q=%23%E6%83%B3%E9%A3%9E%E4%B8%8A%E5%A4%A9%E7%9A%84%E7%94%B7%E5%AD%A9%E7%9C%9F%E8%A6%81%E9%A3%9E%E4%B8%8A%E5%A4%A9%E4%BA%86%23&amp;Refer=top)
 
-1. [殴打院士董事长被开除党籍](https://s.weibo.com//weibo?q=%23%E6%AE%B4%E6%89%93%E9%99%A2%E5%A3%AB%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&amp;Refer=top)
+1. [原生家庭很糟糕是什么体验](https://s.weibo.com//weibo?q=%23%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%BE%88%E7%B3%9F%E7%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&amp;Refer=top)
+
+1. [杭州电动车自燃初查系锂电池爆炸](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%87%AA%E7%87%83%E5%88%9D%E6%9F%A5%E7%B3%BB%E9%94%82%E7%94%B5%E6%B1%A0%E7%88%86%E7%82%B8%23&amp;Refer=top)
 
 1. [许昕吐槽球馆场地跑不开](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E6%98%95%E5%90%90%E6%A7%BD%E7%90%83%E9%A6%86%E5%9C%BA%E5%9C%B0%E8%B7%91%E4%B8%8D%E5%BC%80%23&amp;Refer=top)
 
@@ -70,19 +70,19 @@
 
 1. [夜旅人官宣](https://s.weibo.com//weibo?q=%23%E5%A4%9C%E6%97%85%E4%BA%BA%E5%AE%98%E5%AE%A3%23&amp;Refer=top)
 
-1. [杭州电动车自燃初查系锂电池爆炸](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%87%AA%E7%87%83%E5%88%9D%E6%9F%A5%E7%B3%BB%E9%94%82%E7%94%B5%E6%B1%A0%E7%88%86%E7%82%B8%23&amp;Refer=top)
-
 1. [老人三伏天裹棉衣睡觉中暑险送命](https://s.weibo.com//weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%89%E4%BC%8F%E5%A4%A9%E8%A3%B9%E6%A3%89%E8%A1%A3%E7%9D%A1%E8%A7%89%E4%B8%AD%E6%9A%91%E9%99%A9%E9%80%81%E5%91%BD%23&amp;Refer=top)
 
 1. [学校的通报有多好笑](https://s.weibo.com//weibo?q=%23%E5%AD%A6%E6%A0%A1%E7%9A%84%E9%80%9A%E6%8A%A5%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&amp;Refer=top)
 
-1. [小柔不乖晒和吴亦凡经纪人聊天记录](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9F%94%E4%B8%8D%E4%B9%96%E6%99%92%E5%92%8C%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&amp;Refer=top)
+1. [殴打院士董事长被开除党籍](https://s.weibo.com//weibo?q=%23%E6%AE%B4%E6%89%93%E9%99%A2%E5%A3%AB%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%23&amp;Refer=top)
 
-1. [全国网友已为烧伤父女捐款200万](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B7%B2%E4%B8%BA%E7%83%A7%E4%BC%A4%E7%88%B6%E5%A5%B3%E6%8D%90%E6%AC%BE200%E4%B8%87%23&amp;Refer=top)
+1. [小柔不乖晒和吴亦凡经纪人聊天记录](https://s.weibo.com//weibo?q=%23%E5%B0%8F%E6%9F%94%E4%B8%8D%E4%B9%96%E6%99%92%E5%92%8C%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&amp;Refer=top)
 
 1. [近视眼手术不是人人都适合](https://s.weibo.com//weibo?q=%23%E8%BF%91%E8%A7%86%E7%9C%BC%E6%89%8B%E6%9C%AF%E4%B8%8D%E6%98%AF%E4%BA%BA%E4%BA%BA%E9%83%BD%E9%80%82%E5%90%88%23&amp;Refer=top)
 
 1. [贺先生的恋恋不忘](https://s.weibo.com//weibo?q=%E8%B4%BA%E5%85%88%E7%94%9F%E7%9A%84%E6%81%8B%E6%81%8B%E4%B8%8D%E5%BF%98&amp;Refer=top)
+
+1. [全国网友已为烧伤父女捐款200万](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%B7%B2%E4%B8%BA%E7%83%A7%E4%BC%A4%E7%88%B6%E5%A5%B3%E6%8D%90%E6%AC%BE200%E4%B8%87%23&amp;Refer=top)
 
 1. [夏天开空调26度省电还是28度](https://s.weibo.com//weibo?q=%23%E5%A4%8F%E5%A4%A9%E5%BC%80%E7%A9%BA%E8%B0%8326%E5%BA%A6%E7%9C%81%E7%94%B5%E8%BF%98%E6%98%AF28%E5%BA%A6%23&amp;Refer=top)
 
