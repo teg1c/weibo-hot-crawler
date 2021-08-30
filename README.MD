@@ -5,7 +5,7 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2021-08-31 06:41:32 
+## 微博今日热榜 更新于 2021-08-31 06:50:55 
 1. [睡觉时一脚踩空是怎么回事](https://s.weibo.com//weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E4%B8%80%E8%84%9A%E8%B8%A9%E7%A9%BA%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23&amp;Refer=top)
 
 1. [首位采访塔利班的阿富汗女主播已出国](https://s.weibo.com//weibo?q=%23%E9%A6%96%E4%BD%8D%E9%87%87%E8%AE%BF%E5%A1%94%E5%88%A9%E7%8F%AD%E7%9A%84%E9%98%BF%E5%AF%8C%E6%B1%97%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%B7%B2%E5%87%BA%E5%9B%BD%23&amp;Refer=top)
@@ -38,9 +38,9 @@
 
 1. [孙兴挟持贺芸](https://s.weibo.com//weibo?q=%23%E5%AD%99%E5%85%B4%E6%8C%9F%E6%8C%81%E8%B4%BA%E8%8A%B8%23&amp;Refer=top)
 
-1. [老师的开学恐惧症更严重](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84%E5%BC%80%E5%AD%A6%E6%81%90%E6%83%A7%E7%97%87%E6%9B%B4%E4%B8%A5%E9%87%8D%23&amp;Refer=top)
-
 1. [刘茵拒绝当扶弟魔](https://s.weibo.com//weibo?q=%23%E5%88%98%E8%8C%B5%E6%8B%92%E7%BB%9D%E5%BD%93%E6%89%B6%E5%BC%9F%E9%AD%94%23&amp;Refer=top)
+
+1. [老师的开学恐惧症更严重](https://s.weibo.com//weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84%E5%BC%80%E5%AD%A6%E6%81%90%E6%83%A7%E7%97%87%E6%9B%B4%E4%B8%A5%E9%87%8D%23&amp;Refer=top)
 
 1. [拜登迎接美军遗体时偷偷看表](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E8%BF%8E%E6%8E%A5%E7%BE%8E%E5%86%9B%E9%81%97%E4%BD%93%E6%97%B6%E5%81%B7%E5%81%B7%E7%9C%8B%E8%A1%A8%23&amp;Refer=top)
 
@@ -62,19 +62,19 @@
 
 1. [云南虫谷太硬核了](https://s.weibo.com//weibo?q=%23%E4%BA%91%E5%8D%97%E8%99%AB%E8%B0%B7%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86%23&amp;Refer=top)
 
-1. [厦门5少年30秒洗劫小米手机店](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A85%E5%B0%91%E5%B9%B430%E7%A7%92%E6%B4%97%E5%8A%AB%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%BA%97%23&amp;Refer=top)
+1. [史诗级灾难开学了](https://s.weibo.com//weibo?q=%23%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%81%BE%E9%9A%BE%E5%BC%80%E5%AD%A6%E4%BA%86%23&amp;Refer=top)
 
 1. [全面深化改革委员会第二十一次会议](https://s.weibo.com//weibo?q=%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E5%A7%94%E5%91%98%E4%BC%9A%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%80%E6%AC%A1%E4%BC%9A%E8%AE%AE&amp;Refer=top)
 
 1. [律师称蔡徐坤专辑预售涉嫌违法](https://s.weibo.com//weibo?q=%23%E5%BE%8B%E5%B8%88%E7%A7%B0%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%93%E8%BE%91%E9%A2%84%E5%94%AE%E6%B6%89%E5%AB%8C%E8%BF%9D%E6%B3%95%23&amp;Refer=top)
 
-1. [史诗级灾难开学了](https://s.weibo.com//weibo?q=%23%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%81%BE%E9%9A%BE%E5%BC%80%E5%AD%A6%E4%BA%86%23&amp;Refer=top)
-
-1. [中方对罗格不幸逝世表示深切哀悼](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%BD%97%E6%A0%BC%E4%B8%8D%E5%B9%B8%E9%80%9D%E4%B8%96%E8%A1%A8%E7%A4%BA%E6%B7%B1%E5%88%87%E5%93%80%E6%82%BC%23&amp;Refer=top)
+1. [厦门5少年30秒洗劫小米手机店](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A85%E5%B0%91%E5%B9%B430%E7%A7%92%E6%B4%97%E5%8A%AB%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%BA%97%23&amp;Refer=top)
 
 1. [全国学生开学前的统一姿势](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E5%89%8D%E7%9A%84%E7%BB%9F%E4%B8%80%E5%A7%BF%E5%8A%BF%23&amp;Refer=top)
 
 1. [乔二强马素芹重逢](https://s.weibo.com//weibo?q=%23%E4%B9%94%E4%BA%8C%E5%BC%BA%E9%A9%AC%E7%B4%A0%E8%8A%B9%E9%87%8D%E9%80%A2%23&amp;Refer=top)
+
+1. [中方对罗格不幸逝世表示深切哀悼](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%BD%97%E6%A0%BC%E4%B8%8D%E5%B9%B8%E9%80%9D%E4%B8%96%E8%A1%A8%E7%A4%BA%E6%B7%B1%E5%88%87%E5%93%80%E6%82%BC%23&amp;Refer=top)
 
 1. [甄姬冰雪圆舞曲](https://s.weibo.com//weibo?q=%23%E7%94%84%E5%A7%AC%E5%86%B0%E9%9B%AA%E5%9C%86%E8%88%9E%E6%9B%B2%23&amp;Refer=top)
 
@@ -96,9 +96,9 @@
 
 1. [辰时cp手语神翻译](https://s.weibo.com//weibo?q=%23%E8%BE%B0%E6%97%B6cp%E6%89%8B%E8%AF%AD%E7%A5%9E%E7%BF%BB%E8%AF%91%23&amp;Refer=top)
 
-1. [3分钟回顾美国20年阿富汗战争](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%BE%8E%E5%9B%BD20%E5%B9%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%88%98%E4%BA%89%23&amp;Refer=top)
-
 1. [怎样克服开学焦虑](https://s.weibo.com//weibo?q=%23%E6%80%8E%E6%A0%B7%E5%85%8B%E6%9C%8D%E5%BC%80%E5%AD%A6%E7%84%A6%E8%99%91%23&amp;Refer=top)
+
+1. [3分钟回顾美国20年阿富汗战争](https://s.weibo.com//weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%BE%8E%E5%9B%BD20%E5%B9%B4%E9%98%BF%E5%AF%8C%E6%B1%97%E6%88%98%E4%BA%89%23&amp;Refer=top)
 
 1. [拜登疑似在会见以色列总理时睡着了](https://s.weibo.com//weibo?q=%23%E6%8B%9C%E7%99%BB%E7%96%91%E4%BC%BC%E5%9C%A8%E4%BC%9A%E8%A7%81%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E6%97%B6%E7%9D%A1%E7%9D%80%E4%BA%86%23&amp;Refer=top)
 
