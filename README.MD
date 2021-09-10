@@ -5,12 +5,12 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2021-09-11 05:24:51 
+## 微博今日热榜 更新于 2021-09-11 05:36:19 
 1. [福建仙游6例阳性人员详情公布](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B86%E4%BE%8B%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%E8%AF%A6%E6%83%85%E5%85%AC%E5%B8%83%23&amp;Refer=top)
 
-1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&amp;Refer=top)
-
 1. [虎鲸被圈养42年后开始严重自残](https://s.weibo.com//weibo?q=%23%E8%99%8E%E9%B2%B8%E8%A2%AB%E5%9C%88%E5%85%BB42%E5%B9%B4%E5%90%8E%E5%BC%80%E5%A7%8B%E4%B8%A5%E9%87%8D%E8%87%AA%E6%AE%8B%23&amp;Refer=top)
+
+1. [为啥海底捞这么多摄像头](https://s.weibo.com//weibo?q=%23%E4%B8%BA%E5%95%A5%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%99%E4%B9%88%E5%A4%9A%E6%91%84%E5%83%8F%E5%A4%B4%23&amp;Refer=top)
 
 1. [20岁男子患痔疮全身失血过半](https://s.weibo.com//weibo?q=%2320%E5%B2%81%E7%94%B7%E5%AD%90%E6%82%A3%E7%97%94%E7%96%AE%E5%85%A8%E8%BA%AB%E5%A4%B1%E8%A1%80%E8%BF%87%E5%8D%8A%23&amp;Refer=top)
 
@@ -28,9 +28,9 @@
 
 1. [男童被喷泉冲至半空摔地后身亡](https://s.weibo.com//weibo?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E5%96%B7%E6%B3%89%E5%86%B2%E8%87%B3%E5%8D%8A%E7%A9%BA%E6%91%94%E5%9C%B0%E5%90%8E%E8%BA%AB%E4%BA%A1&amp;Refer=top)
 
-1. [女子鼓动前男友和现男友决斗](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E9%BC%93%E5%8A%A8%E5%89%8D%E7%94%B7%E5%8F%8B%E5%92%8C%E7%8E%B0%E7%94%B7%E5%8F%8B%E5%86%B3%E6%96%97&amp;Refer=top)
-
 1. [帮吴磊看病的医生是陶勇](https://s.weibo.com//weibo?q=%E5%B8%AE%E5%90%B4%E7%A3%8A%E7%9C%8B%E7%97%85%E7%9A%84%E5%8C%BB%E7%94%9F%E6%98%AF%E9%99%B6%E5%8B%87&amp;Refer=top)
+
+1. [女子鼓动前男友和现男友决斗](https://s.weibo.com//weibo?q=%E5%A5%B3%E5%AD%90%E9%BC%93%E5%8A%A8%E5%89%8D%E7%94%B7%E5%8F%8B%E5%92%8C%E7%8E%B0%E7%94%B7%E5%8F%8B%E5%86%B3%E6%96%97&amp;Refer=top)
 
 1. [皮箱藏尸案出租司机被网暴](https://s.weibo.com//weibo?q=%23%E7%9A%AE%E7%AE%B1%E8%97%8F%E5%B0%B8%E6%A1%88%E5%87%BA%E7%A7%9F%E5%8F%B8%E6%9C%BA%E8%A2%AB%E7%BD%91%E6%9A%B4%23&amp;Refer=top)
 
@@ -48,9 +48,9 @@
 
 1. [亚马逊关闭大量刷单电商店铺](https://s.weibo.com//weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%B3%E9%97%AD%E5%A4%A7%E9%87%8F%E5%88%B7%E5%8D%95%E7%94%B5%E5%95%86%E5%BA%97%E9%93%BA%23&amp;Refer=top)
 
-1. [步步惊心开播十周年](https://s.weibo.com//weibo?q=%23%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83%E5%BC%80%E6%92%AD%E5%8D%81%E5%91%A8%E5%B9%B4%23&amp;Refer=top)
-
 1. [一张照片能泄露多少隐私](https://s.weibo.com//weibo?q=%23%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E8%83%BD%E6%B3%84%E9%9C%B2%E5%A4%9A%E5%B0%91%E9%9A%90%E7%A7%81%23&amp;Refer=top)
+
+1. [步步惊心开播十周年](https://s.weibo.com//weibo?q=%23%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83%E5%BC%80%E6%92%AD%E5%8D%81%E5%91%A8%E5%B9%B4%23&amp;Refer=top)
 
 1. [人生第一次这么想要小钢腿](https://s.weibo.com//weibo?q=%23%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%99%E4%B9%88%E6%83%B3%E8%A6%81%E5%B0%8F%E9%92%A2%E8%85%BF%23&amp;Refer=top)
 
@@ -76,19 +76,19 @@
 
 1. [你发过仅一人可见的朋友圈吗](https://s.weibo.com//weibo?q=%23%E4%BD%A0%E5%8F%91%E8%BF%87%E4%BB%85%E4%B8%80%E4%BA%BA%E5%8F%AF%E8%A7%81%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%97%23&amp;Refer=top)
 
-1. [福建仙游发现6例核酸检测阳性人员](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E5%8F%91%E7%8E%B06%E4%BE%8B%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%23&amp;Refer=top)
+1. [三星堆文物撞脸经典表情包](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%87%E7%89%A9%E6%92%9E%E8%84%B8%E7%BB%8F%E5%85%B8%E8%A1%A8%E6%83%85%E5%8C%85%23&amp;Refer=top)
 
 1. [心疼刘端端](https://s.weibo.com//weibo?q=%23%E5%BF%83%E7%96%BC%E5%88%98%E7%AB%AF%E7%AB%AF%23&amp;Refer=top)
 
-1. [三星堆文物撞脸经典表情包](https://s.weibo.com//weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%87%E7%89%A9%E6%92%9E%E8%84%B8%E7%BB%8F%E5%85%B8%E8%A1%A8%E6%83%85%E5%8C%85%23&amp;Refer=top)
-
 1. [千书真把秀莲推下海](https://s.weibo.com//weibo?q=%23%E5%8D%83%E4%B9%A6%E7%9C%9F%E6%8A%8A%E7%A7%80%E8%8E%B2%E6%8E%A8%E4%B8%8B%E6%B5%B7%23&amp;Refer=top)
 
-1. [抗癌博主阿健哥哥宣布其已去世](https://s.weibo.com//weibo?q=%23%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E9%98%BF%E5%81%A5%E5%93%A5%E5%93%A5%E5%AE%A3%E5%B8%83%E5%85%B6%E5%B7%B2%E5%8E%BB%E4%B8%96%23&amp;Refer=top)
+1. [福建仙游发现6例核酸检测阳性人员](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E5%8F%91%E7%8E%B06%E4%BE%8B%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%23&amp;Refer=top)
 
 1. [和大学喜欢的那个人结婚了](https://s.weibo.com//weibo?q=%23%E5%92%8C%E5%A4%A7%E5%AD%A6%E5%96%9C%E6%AC%A2%E7%9A%84%E9%82%A3%E4%B8%AA%E4%BA%BA%E7%BB%93%E5%A9%9A%E4%BA%86%23&amp;Refer=top)
 
 1. [赵丽颖丁程鑫是在跳恰恰舞吧](https://s.weibo.com//weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%81%E7%A8%8B%E9%91%AB%E6%98%AF%E5%9C%A8%E8%B7%B3%E6%81%B0%E6%81%B0%E8%88%9E%E5%90%A7%23&amp;Refer=top)
+
+1. [抗癌博主阿健哥哥宣布其已去世](https://s.weibo.com//weibo?q=%23%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E9%98%BF%E5%81%A5%E5%93%A5%E5%93%A5%E5%AE%A3%E5%B8%83%E5%85%B6%E5%B7%B2%E5%8E%BB%E4%B8%96%23&amp;Refer=top)
 
 1. [红楼梦贾政扮演者去世](https://s.weibo.com//weibo?q=%23%E7%BA%A2%E6%A5%BC%E6%A2%A6%E8%B4%BE%E6%94%BF%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&amp;Refer=top)
 
@@ -102,7 +102,7 @@
 
 1. [福建莆田疫情防控新闻发布会](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%8E%86%E7%94%B0%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&amp;Refer=top)
 
-1. [成都地铁在建工地坍塌4死14伤](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%9C%A8%E5%BB%BA%E5%B7%A5%E5%9C%B0%E5%9D%8D%E5%A1%8C4%E6%AD%BB14%E4%BC%A4%23&amp;Refer=top)
+1. [教师节的祝福翻车现场](https://s.weibo.com//weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E7%9A%84%E7%A5%9D%E7%A6%8F%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%23&amp;Refer=top)
 
-1. [福建仙游三地划为中风险区域](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%BB%99%E6%B8%B8%E4%B8%89%E5%9C%B0%E5%88%92%E4%B8%BA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%8C%BA%E5%9F%9F%23&amp;Refer=top)
+1. [成都地铁在建工地坍塌4死14伤](https://s.weibo.com//weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%9C%A8%E5%BB%BA%E5%B7%A5%E5%9C%B0%E5%9D%8D%E5%A1%8C4%E6%AD%BB14%E4%BC%A4%23&amp;Refer=top)
 
