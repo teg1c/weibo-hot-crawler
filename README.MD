@@ -5,7 +5,7 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2021-09-20 06:30:02 
+## 微博今日热榜 更新于 2021-09-20 06:40:52 
 1. [长期睡眠不足患抑郁症的风险更高](https://s.weibo.com//weibo?q=%23%E9%95%BF%E6%9C%9F%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E6%82%A3%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E9%A3%8E%E9%99%A9%E6%9B%B4%E9%AB%98%23&amp;Refer=top)
 
 1. [山西前首富李兆会失踪始末](https://s.weibo.com//weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%89%8D%E9%A6%96%E5%AF%8C%E6%9D%8E%E5%85%86%E4%BC%9A%E5%A4%B1%E8%B8%AA%E5%A7%8B%E6%9C%AB%23&amp;Refer=top)
@@ -16,9 +16,9 @@
 
 1. [婚纱照拍出了神仙的感觉](https://s.weibo.com//weibo?q=%23%E5%A9%9A%E7%BA%B1%E7%85%A7%E6%8B%8D%E5%87%BA%E4%BA%86%E7%A5%9E%E4%BB%99%E7%9A%84%E6%84%9F%E8%A7%89%23&amp;Refer=top)
 
-1. [烤好的小熊有只热醒了](https://s.weibo.com//weibo?q=%23%E7%83%A4%E5%A5%BD%E7%9A%84%E5%B0%8F%E7%86%8A%E6%9C%89%E5%8F%AA%E7%83%AD%E9%86%92%E4%BA%86%23&amp;Refer=top)
-
 1. [河南卫视真的绝了](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&amp;Refer=top)
+
+1. [烤好的小熊有只热醒了](https://s.weibo.com//weibo?q=%23%E7%83%A4%E5%A5%BD%E7%9A%84%E5%B0%8F%E7%86%8A%E6%9C%89%E5%8F%AA%E7%83%AD%E9%86%92%E4%BA%86%23&amp;Refer=top)
 
 1. [女子感觉虚用祖传偏方补肾致铅中毒](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E6%84%9F%E8%A7%89%E8%99%9A%E7%94%A8%E7%A5%96%E4%BC%A0%E5%81%8F%E6%96%B9%E8%A1%A5%E8%82%BE%E8%87%B4%E9%93%85%E4%B8%AD%E6%AF%92%23&amp;Refer=top)
 
@@ -56,9 +56,9 @@
 
 1. [河南卫视有文化NB症](https://s.weibo.com//weibo?q=%23%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E6%9C%89%E6%96%87%E5%8C%96NB%E7%97%87%23&amp;Refer=top)
 
-1. [重庆一座24层楼没电梯](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%BA%A724%E5%B1%82%E6%A5%BC%E6%B2%A1%E7%94%B5%E6%A2%AF%23&amp;Refer=top)
-
 1. [全国统一的8090后童年回忆](https://s.weibo.com//weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%848090%E5%90%8E%E7%AB%A5%E5%B9%B4%E5%9B%9E%E5%BF%86%23&amp;Refer=top)
+
+1. [重庆一座24层楼没电梯](https://s.weibo.com//weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%BA%A724%E5%B1%82%E6%A5%BC%E6%B2%A1%E7%94%B5%E6%A2%AF%23&amp;Refer=top)
 
 1. [去奶茶店打工才知道的事](https://s.weibo.com//weibo?q=%23%E5%8E%BB%E5%A5%B6%E8%8C%B6%E5%BA%97%E6%89%93%E5%B7%A5%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B%23&amp;Refer=top)
 
@@ -84,11 +84,11 @@
 
 1. [叶诗文一棒追回10秒](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E4%B8%80%E6%A3%92%E8%BF%BD%E5%9B%9E10%E7%A7%92%23&amp;Refer=top)
 
+1. [外公去世新兵独自入伍无人送行](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%85%AC%E5%8E%BB%E4%B8%96%E6%96%B0%E5%85%B5%E7%8B%AC%E8%87%AA%E5%85%A5%E4%BC%8D%E6%97%A0%E4%BA%BA%E9%80%81%E8%A1%8C%23&amp;Refer=top)
+
 1. [天津大学文创月饼20天卖20万块](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%A7%E5%AD%A6%E6%96%87%E5%88%9B%E6%9C%88%E9%A5%BC20%E5%A4%A9%E5%8D%9620%E4%B8%87%E5%9D%97%23&amp;Refer=top)
 
 1. [林子祥杨芸晴跨世纪合唱凭着爱](https://s.weibo.com//weibo?q=%23%E6%9E%97%E5%AD%90%E7%A5%A5%E6%9D%A8%E8%8A%B8%E6%99%B4%E8%B7%A8%E4%B8%96%E7%BA%AA%E5%90%88%E5%94%B1%E5%87%AD%E7%9D%80%E7%88%B1%23&amp;Refer=top)
-
-1. [外公去世新兵独自入伍无人送行](https://s.weibo.com//weibo?q=%23%E5%A4%96%E5%85%AC%E5%8E%BB%E4%B8%96%E6%96%B0%E5%85%B5%E7%8B%AC%E8%87%AA%E5%85%A5%E4%BC%8D%E6%97%A0%E4%BA%BA%E9%80%81%E8%A1%8C%23&amp;Refer=top)
 
 1. [中国男排获亚锦赛铜牌](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92%E8%8E%B7%E4%BA%9A%E9%94%A6%E8%B5%9B%E9%93%9C%E7%89%8C%23&amp;Refer=top)
 
