@@ -5,7 +5,7 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2021-09-21 05:38:48 
+## 微博今日热榜 更新于 2021-09-21 05:50:06 
 1. [琼海疑似发生一起啤酒爆炸事件](https://s.weibo.com//weibo?q=%23%E7%90%BC%E6%B5%B7%E7%96%91%E4%BC%BC%E5%8F%91%E7%94%9F%E4%B8%80%E8%B5%B7%E5%95%A4%E9%85%92%E7%88%86%E7%82%B8%E4%BA%8B%E4%BB%B6%23&amp;Refer=top)
 
 1. [天舟三号成功对接于天和核心舱](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E8%88%9F%E4%B8%89%E5%8F%B7%E6%88%90%E5%8A%9F%E5%AF%B9%E6%8E%A5%E4%BA%8E%E5%A4%A9%E5%92%8C%E6%A0%B8%E5%BF%83%E8%88%B1%23&amp;Refer=top)
@@ -36,13 +36,13 @@
 
 1. [深圳海景民宿一房难求](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B5%B7%E6%99%AF%E6%B0%91%E5%AE%BF%E4%B8%80%E6%88%BF%E9%9A%BE%E6%B1%82%23&amp;Refer=top)
 
+1. [峰爆票房破2亿](https://s.weibo.com//weibo?q=%E5%B3%B0%E7%88%86%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF&amp;Refer=top)
+
 1. [和相恋五年的男孩结婚了](https://s.weibo.com//weibo?q=%23%E5%92%8C%E7%9B%B8%E6%81%8B%E4%BA%94%E5%B9%B4%E7%9A%84%E7%94%B7%E5%AD%A9%E7%BB%93%E5%A9%9A%E4%BA%86%23&amp;Refer=top)
 
 1. [9岁孩子玩手机不运动患上静脉血栓](https://s.weibo.com//weibo?q=%239%E5%B2%81%E5%AD%A9%E5%AD%90%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%B8%8D%E8%BF%90%E5%8A%A8%E6%82%A3%E4%B8%8A%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93%23&amp;Refer=top)
 
 1. [上一辈的冰箱能有多窒息](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E4%B8%80%E8%BE%88%E7%9A%84%E5%86%B0%E7%AE%B1%E8%83%BD%E6%9C%89%E5%A4%9A%E7%AA%92%E6%81%AF%23&amp;Refer=top)
-
-1. [峰爆票房破2亿](https://s.weibo.com//weibo?q=%E5%B3%B0%E7%88%86%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF&amp;Refer=top)
 
 1. [天舟三号货运飞船发射圆满成功](https://s.weibo.com//weibo?q=%23%E5%A4%A9%E8%88%9F%E4%B8%89%E5%8F%B7%E8%B4%A7%E8%BF%90%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&amp;Refer=top)
 
@@ -54,17 +54,17 @@
 
 1. [韩庚把谐音梗玩明白了](https://s.weibo.com//weibo?q=%23%E9%9F%A9%E5%BA%9A%E6%8A%8A%E8%B0%90%E9%9F%B3%E6%A2%97%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&amp;Refer=top)
 
-1. [首批iPhone13已发货](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%89%B9iPhone13%E5%B7%B2%E5%8F%91%E8%B4%A7%23&amp;Refer=top)
-
 1. [佟丽娅于和伟郑恺主持北影节开幕式](https://s.weibo.com//weibo?q=%23%E4%BD%9F%E4%B8%BD%E5%A8%85%E4%BA%8E%E5%92%8C%E4%BC%9F%E9%83%91%E6%81%BA%E4%B8%BB%E6%8C%81%E5%8C%97%E5%BD%B1%E8%8A%82%E5%BC%80%E5%B9%95%E5%BC%8F%23&amp;Refer=top)
+
+1. [首批iPhone13已发货](https://s.weibo.com//weibo?q=%23%E9%A6%96%E6%89%B9iPhone13%E5%B7%B2%E5%8F%91%E8%B4%A7%23&amp;Refer=top)
 
 1. [单位没发月饼员工把经理打到住院](https://s.weibo.com//weibo?q=%23%E5%8D%95%E4%BD%8D%E6%B2%A1%E5%8F%91%E6%9C%88%E9%A5%BC%E5%91%98%E5%B7%A5%E6%8A%8A%E7%BB%8F%E7%90%86%E6%89%93%E5%88%B0%E4%BD%8F%E9%99%A2%23&amp;Refer=top)
 
 1. [开场仅三小时哈利波特城堡成垃圾堆](https://s.weibo.com//weibo?q=%23%E5%BC%80%E5%9C%BA%E4%BB%85%E4%B8%89%E5%B0%8F%E6%97%B6%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E5%9F%8E%E5%A0%A1%E6%88%90%E5%9E%83%E5%9C%BE%E5%A0%86%23&amp;Refer=top)
 
-1. [民警夜查酒吧后宣传反诈app](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E5%A4%9C%E6%9F%A5%E9%85%92%E5%90%A7%E5%90%8E%E5%AE%A3%E4%BC%A0%E5%8F%8D%E8%AF%88app%23&amp;Refer=top)
-
 1. [这位88岁退休医生的遗愿让人泪目](https://s.weibo.com//weibo?q=%23%E8%BF%99%E4%BD%8D88%E5%B2%81%E9%80%80%E4%BC%91%E5%8C%BB%E7%94%9F%E7%9A%84%E9%81%97%E6%84%BF%E8%AE%A9%E4%BA%BA%E6%B3%AA%E7%9B%AE%23&amp;Refer=top)
+
+1. [马龙最想走的门打开了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E6%9C%80%E6%83%B3%E8%B5%B0%E7%9A%84%E9%97%A8%E6%89%93%E5%BC%80%E4%BA%86%23&amp;Refer=top)
 
 1. [五月天怪兽当爸](https://s.weibo.com//weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%80%AA%E5%85%BD%E5%BD%93%E7%88%B8%23&amp;Refer=top)
 
@@ -74,25 +74,25 @@
 
 1. [孙芮毕业单飞](https://s.weibo.com//weibo?q=%23%E5%AD%99%E8%8A%AE%E6%AF%95%E4%B8%9A%E5%8D%95%E9%A3%9E%23&amp;Refer=top)
 
+1. [民警夜查酒吧后宣传反诈app](https://s.weibo.com//weibo?q=%23%E6%B0%91%E8%AD%A6%E5%A4%9C%E6%9F%A5%E9%85%92%E5%90%A7%E5%90%8E%E5%AE%A3%E4%BC%A0%E5%8F%8D%E8%AF%88app%23&amp;Refer=top)
+
 1. [男子暗语买烟老板秒懂](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%90%E6%9A%97%E8%AF%AD%E4%B9%B0%E7%83%9F%E8%80%81%E6%9D%BF%E7%A7%92%E6%87%82%23&amp;Refer=top)
 
 1. [螃蟹刚来我家时还很怕生](https://s.weibo.com//weibo?q=%23%E8%9E%83%E8%9F%B9%E5%88%9A%E6%9D%A5%E6%88%91%E5%AE%B6%E6%97%B6%E8%BF%98%E5%BE%88%E6%80%95%E7%94%9F%23&amp;Refer=top)
 
-1. [被榴莲砸到脚的后果](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%A6%B4%E8%8E%B2%E7%A0%B8%E5%88%B0%E8%84%9A%E7%9A%84%E5%90%8E%E6%9E%9C%23&amp;Refer=top)
+1. [厦门派出近千名医务人员驰援同安](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%B4%BE%E5%87%BA%E8%BF%91%E5%8D%83%E5%90%8D%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E9%A9%B0%E6%8F%B4%E5%90%8C%E5%AE%89%23&amp;Refer=top)
 
 1. [男孩偷10块钱被爸爸送到派出所](https://s.weibo.com//weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%B710%E5%9D%97%E9%92%B1%E8%A2%AB%E7%88%B8%E7%88%B8%E9%80%81%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%23&amp;Refer=top)
 
-1. [厦门派出近千名医务人员驰援同安](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E6%B4%BE%E5%87%BA%E8%BF%91%E5%8D%83%E5%90%8D%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E9%A9%B0%E6%8F%B4%E5%90%8C%E5%AE%89%23&amp;Refer=top)
-
-1. [陈梦表现](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E8%A1%A8%E7%8E%B0%23&amp;Refer=top)
+1. [被榴莲砸到脚的后果](https://s.weibo.com//weibo?q=%23%E8%A2%AB%E6%A6%B4%E8%8E%B2%E7%A0%B8%E5%88%B0%E8%84%9A%E7%9A%84%E5%90%8E%E6%9E%9C%23&amp;Refer=top)
 
 1. [防弹少年团联合国演讲](https://s.weibo.com//weibo?q=%E9%98%B2%E5%BC%B9%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%81%94%E5%90%88%E5%9B%BD%E6%BC%94%E8%AE%B2&amp;Refer=top)
 
-1. [湾区升明月中秋晚会节目单](https://s.weibo.com//weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&amp;Refer=top)
-
 1. [厦门第二轮检测中检出17份混管阳性样本](https://s.weibo.com//weibo?q=%23%E5%8E%A6%E9%97%A8%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%A3%80%E6%B5%8B%E4%B8%AD%E6%A3%80%E5%87%BA17%E4%BB%BD%E6%B7%B7%E7%AE%A1%E9%98%B3%E6%80%A7%E6%A0%B7%E6%9C%AC%23&amp;Refer=top)
 
-1. [马龙最想走的门打开了](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E9%BE%99%E6%9C%80%E6%83%B3%E8%B5%B0%E7%9A%84%E9%97%A8%E6%89%93%E5%BC%80%E4%BA%86%23&amp;Refer=top)
+1. [湾区升明月中秋晚会节目单](https://s.weibo.com//weibo?q=%23%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&amp;Refer=top)
+
+1. [陈梦表现](https://s.weibo.com//weibo?q=%23%E9%99%88%E6%A2%A6%E8%A1%A8%E7%8E%B0%23&amp;Refer=top)
 
 1. [中秋团圆的100种方式](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%9B%A2%E5%9C%86%E7%9A%84100%E7%A7%8D%E6%96%B9%E5%BC%8F%23&amp;Refer=top)
 
