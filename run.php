@@ -32,7 +32,8 @@ $result = $table->find('tr:gt(1)')->map(function ($row) use (&$readMeHead) {
     $title = $row->find('td:eq(1)>a')->text();
     $count = $row->find('td:eq(1)>span')->text();
     $url = $row->find('td:eq(1)>a')->attr('href');
-    if (empty($title)) {
+    $head = $row->find('td:eq(0)')->text();
+    if (empty($title) || !is_numeric($head)) {
         return [];
     }
     preg_match('@(\d+)@', $count, $matchs);
