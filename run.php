@@ -38,7 +38,7 @@ $result = $table->find('tr:gt(1)')->map(function ($row) use (&$readMeHead) {
     }
     preg_match('@(\d+)@', $count, $matchs);
 
-    $readMeHead .= sprintf("1. [%s](https://s.weibo.com%s) %s 🔥 \n\n", $title, $url, getCountStr((int)($matchs[1] ?? '')));
+    $readMeHead .= sprintf("1. [%s](https://s.weibo.com%s) `%s 🔥` \n\n", $title, $url, getCountStr((int)($matchs[1] ?? '')));
     return [
         'title' => $title,
         'url' => $count,
