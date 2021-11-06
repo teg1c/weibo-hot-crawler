@@ -5,104 +5,104 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2021-11-06 20:54:32 
-1. [EDG夺冠flag](https://s.weibo.com/weibo?q=%23EDG%E5%A4%BA%E5%86%A0flag%23&Refer=top) `2.8M 🔥` 
+## 微博今日热榜 更新于 2021-11-06 21:17:56 
+1. [EDG夺冠flag](https://s.weibo.com/weibo?q=%23EDG%E5%A4%BA%E5%86%A0flag%23&Refer=top) `5.0M 🔥` 
 
-1. [北京初雪](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%88%9D%E9%9B%AA%23&Refer=top) `1.1M 🔥` 
+1. [女子为旺夫花4万填充额头出现凹坑](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%97%BA%E5%A4%AB%E8%8A%B14%E4%B8%87%E5%A1%AB%E5%85%85%E9%A2%9D%E5%A4%B4%E5%87%BA%E7%8E%B0%E5%87%B9%E5%9D%91%23&Refer=top) `1.6M 🔥` 
 
-1. [奶奶安慰孙女只差49分就满分了](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%AE%89%E6%85%B0%E5%AD%99%E5%A5%B3%E5%8F%AA%E5%B7%AE49%E5%88%86%E5%B0%B1%E6%BB%A1%E5%88%86%E4%BA%86%23&Refer=top) `929.8K 🔥` 
+1. [EDG决赛朋友圈有多热闹](https://s.weibo.com/weibo?q=%23EDG%E5%86%B3%E8%B5%9B%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9C%89%E5%A4%9A%E7%83%AD%E9%97%B9%23&Refer=top) `1.6M 🔥` 
 
-1. [EDG DK](https://s.weibo.com/weibo?q=EDG%20DK&Refer=top) `888.4K 🔥` 
+1. [北京初雪](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%88%9D%E9%9B%AA%23&Refer=top) `1.3M 🔥` 
 
-1. [蔡徐坤录视频为患病粉丝打气](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%BD%95%E8%A7%86%E9%A2%91%E4%B8%BA%E6%82%A3%E7%97%85%E7%B2%89%E4%B8%9D%E6%89%93%E6%B0%94%23&Refer=top) `836.5K 🔥` 
+1. [EDG团灭DK](https://s.weibo.com/weibo?q=%23EDG%E5%9B%A2%E7%81%ADDK%23&Refer=top) `1.2M 🔥` 
 
-1. [EDG决赛朋友圈有多热闹](https://s.weibo.com/weibo?q=%23EDG%E5%86%B3%E8%B5%9B%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%9C%89%E5%A4%9A%E7%83%AD%E9%97%B9%23&Refer=top) `794.4K 🔥` 
+1. [奶奶安慰孙女只差49分就满分了](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%AE%89%E6%85%B0%E5%AD%99%E5%A5%B3%E5%8F%AA%E5%B7%AE49%E5%88%86%E5%B0%B1%E6%BB%A1%E5%88%86%E4%BA%86%23&Refer=top) `1.1M 🔥` 
 
-1. [老师晒结婚证女孩爱不释手端详](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%99%92%E7%BB%93%E5%A9%9A%E8%AF%81%E5%A5%B3%E5%AD%A9%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B%E7%AB%AF%E8%AF%A6%23&Refer=top) `748.9K 🔥` 
+1. [EDG DK](https://s.weibo.com/weibo?q=EDG%20DK&Refer=top) `1.0M 🔥` 
 
-1. [S11总决赛](https://s.weibo.com/weibo?q=%23S11%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top) `716.2K 🔥` 
+1. [转走1200万银行柜员已被判无期](https://s.weibo.com/weibo?q=%23%E8%BD%AC%E8%B5%B01200%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E5%B7%B2%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&Refer=top) `910.7K 🔥` 
 
-1. [转走1200万银行柜员已被判无期](https://s.weibo.com/weibo?q=%23%E8%BD%AC%E8%B5%B01200%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E5%B7%B2%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23&Refer=top) `676.6K 🔥` 
+1. [EDG阵容](https://s.weibo.com/weibo?q=%23EDG%E9%98%B5%E5%AE%B9%23&Refer=top) `861.6K 🔥` 
 
-1. [初雪](https://s.weibo.com/weibo?q=%E5%88%9D%E9%9B%AA&Refer=top) `654.3K 🔥` 
+1. [老师晒结婚证女孩爱不释手端详](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%99%92%E7%BB%93%E5%A9%9A%E8%AF%81%E5%A5%B3%E5%AD%A9%E7%88%B1%E4%B8%8D%E9%87%8A%E6%89%8B%E7%AB%AF%E8%AF%A6%23&Refer=top) `715.2K 🔥` 
 
-1. [TF家族三代2022年历预告](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%B8%89%E4%BB%A32022%E5%B9%B4%E5%8E%86%E9%A2%84%E5%91%8A%23&Refer=top) `641.1K 🔥` 
+1. [EDG先下一城](https://s.weibo.com/weibo?q=%23EDG%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&Refer=top) `708.9K 🔥` 
 
-1. [张彬彬S11总决赛解说](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%ACS11%E6%80%BB%E5%86%B3%E8%B5%9B%E8%A7%A3%E8%AF%B4%23&Refer=top) `608.0K 🔥` 
+1. [蔡徐坤录视频为患病粉丝打气](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%BD%95%E8%A7%86%E9%A2%91%E4%B8%BA%E6%82%A3%E7%97%85%E7%B2%89%E4%B8%9D%E6%89%93%E6%B0%94%23&Refer=top) `706.4K 🔥` 
 
-1. [上海史上最重金枪鱼开切](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%87%8D%E9%87%91%E6%9E%AA%E9%B1%BC%E5%BC%80%E5%88%87%23&Refer=top) `465.7K 🔥` 
+1. [S11总决赛](https://s.weibo.com/weibo?q=%23S11%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top) `703.7K 🔥` 
 
-1. [致命愿望开分4.9](https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%91%BD%E6%84%BF%E6%9C%9B%E5%BC%80%E5%88%864.9%23&Refer=top) `434.8K 🔥` 
+1. [初雪](https://s.weibo.com/weibo?q=%23%E5%88%9D%E9%9B%AA%23&Refer=top) `698.3K 🔥` 
 
-1. [女子为旺夫花4万填充额头出现凹坑](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%97%BA%E5%A4%AB%E8%8A%B14%E4%B8%87%E5%A1%AB%E5%85%85%E9%A2%9D%E5%A4%B4%E5%87%BA%E7%8E%B0%E5%87%B9%E5%9D%91%23&Refer=top) `419.8K 🔥` 
+1. [张彬彬S11总决赛解说](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%ACS11%E6%80%BB%E5%86%B3%E8%B5%9B%E8%A7%A3%E8%AF%B4%23&Refer=top) `667.8K 🔥` 
 
-1. [小学语文老师在试卷上写暖心鼓励语](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E5%9C%A8%E8%AF%95%E5%8D%B7%E4%B8%8A%E5%86%99%E6%9A%96%E5%BF%83%E9%BC%93%E5%8A%B1%E8%AF%AD%23&Refer=top) `409.9K 🔥` 
+1. [TF家族三代2022年历预告](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%B8%89%E4%BB%A32022%E5%B9%B4%E5%8E%86%E9%A2%84%E5%91%8A%23&Refer=top) `629.3K 🔥` 
 
-1. [黄小蕾获中美电影节最佳女配角](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B0%8F%E8%95%BE%E8%8E%B7%E4%B8%AD%E7%BE%8E%E7%94%B5%E5%BD%B1%E8%8A%82%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92%23&Refer=top) `408.6K 🔥` 
+1. [未来上下班通勤最长只要15分钟](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%B8%8A%E4%B8%8B%E7%8F%AD%E9%80%9A%E5%8B%A4%E6%9C%80%E9%95%BF%E5%8F%AA%E8%A6%8115%E5%88%86%E9%92%9F%23&Refer=top) `605.6K 🔥` 
 
-1. [看EDG比赛紧张怎么办](https://s.weibo.com/weibo?q=%23%E7%9C%8BEDG%E6%AF%94%E8%B5%9B%E7%B4%A7%E5%BC%A0%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top) `391.8K 🔥` 
+1. [上海史上最重金枪鱼开切](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%87%8D%E9%87%91%E6%9E%AA%E9%B1%BC%E5%BC%80%E5%88%87%23&Refer=top) `518.1K 🔥` 
 
-1. [金晨光脚跳易燃易爆炸](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%85%89%E8%84%9A%E8%B7%B3%E6%98%93%E7%87%83%E6%98%93%E7%88%86%E7%82%B8%23&Refer=top) `389.5K 🔥` 
+1. [EDGM无缘季后赛](https://s.weibo.com/weibo?q=%23EDGM%E6%97%A0%E7%BC%98%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top) `503.1K 🔥` 
 
-1. [EDG阵容](https://s.weibo.com/weibo?q=EDG%E9%98%B5%E5%AE%B9&Refer=top) `331.4K 🔥` 
+1. [看EDG比赛紧张怎么办](https://s.weibo.com/weibo?q=%23%E7%9C%8BEDG%E6%AF%94%E8%B5%9B%E7%B4%A7%E5%BC%A0%E6%80%8E%E4%B9%88%E5%8A%9E%23&Refer=top) `480.5K 🔥` 
 
-1. [南京阿姨为猫租房救助流浪猫](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%98%BF%E5%A7%A8%E4%B8%BA%E7%8C%AB%E7%A7%9F%E6%88%BF%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E7%8C%AB%23&Refer=top) `312.3K 🔥` 
+1. [金晨光脚跳易燃易爆炸](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%85%89%E8%84%9A%E8%B7%B3%E6%98%93%E7%87%83%E6%98%93%E7%88%86%E7%82%B8%23&Refer=top) `454.8K 🔥` 
 
-1. [宝莲灯主演16年前后对比](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E8%8E%B2%E7%81%AF%E4%B8%BB%E6%BC%9416%E5%B9%B4%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&Refer=top) `303.9K 🔥` 
+1. [致命愿望开分4.9](https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%91%BD%E6%84%BF%E6%9C%9B%E5%BC%80%E5%88%864.9%23&Refer=top) `408.3K 🔥` 
 
-1. [这就是显瘦界的天花板吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%98%BE%E7%98%A6%E7%95%8C%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%90%A7%23&Refer=top) `295.9K 🔥` 
+1. [EDG决赛加油](https://s.weibo.com/weibo?q=%23EDG%E5%86%B3%E8%B5%9B%E5%8A%A0%E6%B2%B9%23&Refer=top) `398.7K 🔥` 
 
-1. [周扬青陈瑞丰高甜售后](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E9%99%88%E7%91%9E%E4%B8%B0%E9%AB%98%E7%94%9C%E5%94%AE%E5%90%8E%23&Refer=top) `293.3K 🔥` 
+1. [Meiko的时光](https://s.weibo.com/weibo?q=%23Meiko%E7%9A%84%E6%97%B6%E5%85%89%23&Refer=top) `373.2K 🔥` 
 
-1. [把拼好的乐高摔掉是什么体验](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%8B%BC%E5%A5%BD%E7%9A%84%E4%B9%90%E9%AB%98%E6%91%94%E6%8E%89%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) `270.5K 🔥` 
+1. [这就是显瘦界的天花板吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%98%BE%E7%98%A6%E7%95%8C%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%90%A7%23&Refer=top) `354.3K 🔥` 
 
-1. [大风雨雪降温强势来袭](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%A3%8E%E9%9B%A8%E9%9B%AA%E9%99%8D%E6%B8%A9%E5%BC%BA%E5%8A%BF%E6%9D%A5%E8%A2%AD%23&Refer=top) `267.7K 🔥` 
+1. [黄小蕾获中美电影节最佳女配角](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B0%8F%E8%95%BE%E8%8E%B7%E4%B8%AD%E7%BE%8E%E7%94%B5%E5%BD%B1%E8%8A%82%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92%23&Refer=top) `344.1K 🔥` 
 
-1. [一人一句为EDG加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BAEDG%E5%8A%A0%E6%B2%B9%23&Refer=top) `262.3K 🔥` 
+1. [舞千年首期观后感](https://s.weibo.com/weibo?q=%23%E8%88%9E%E5%8D%83%E5%B9%B4%E9%A6%96%E6%9C%9F%E8%A7%82%E5%90%8E%E6%84%9F%23&Refer=top) `319.6K 🔥` 
 
-1. [京粤大战](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E7%B2%A4%E5%A4%A7%E6%88%98%23&Refer=top) `257.1K 🔥` 
+1. [南京阿姨为猫租房救助流浪猫](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%98%BF%E5%A7%A8%E4%B8%BA%E7%8C%AB%E7%A7%9F%E6%88%BF%E6%95%91%E5%8A%A9%E6%B5%81%E6%B5%AA%E7%8C%AB%23&Refer=top) `318.4K 🔥` 
 
-1. [老人昏厥倒地女护士弃车飞奔救人](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%98%8F%E5%8E%A5%E5%80%92%E5%9C%B0%E5%A5%B3%E6%8A%A4%E5%A3%AB%E5%BC%83%E8%BD%A6%E9%A3%9E%E5%A5%94%E6%95%91%E4%BA%BA%23&Refer=top) `252.5K 🔥` 
+1. [小学语文老师在试卷上写暖心鼓励语](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E8%AF%AD%E6%96%87%E8%80%81%E5%B8%88%E5%9C%A8%E8%AF%95%E5%8D%B7%E4%B8%8A%E5%86%99%E6%9A%96%E5%BF%83%E9%BC%93%E5%8A%B1%E8%AF%AD%23&Refer=top) `311.5K 🔥` 
 
-1. [本轮疫情由多个不关联的境外输入源头引起](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E7%94%B1%E5%A4%9A%E4%B8%AA%E4%B8%8D%E5%85%B3%E8%81%94%E7%9A%84%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E6%BA%90%E5%A4%B4%E5%BC%95%E8%B5%B7%23&Refer=top) `248.0K 🔥` 
+1. [实拍故宫雪景](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8B%8D%E6%95%85%E5%AE%AB%E9%9B%AA%E6%99%AF%23&Refer=top) `298.4K 🔥` 
 
-1. [张予曦刘学义的新剧花絮](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%88%98%E5%AD%A6%E4%B9%89%E7%9A%84%E6%96%B0%E5%89%A7%E8%8A%B1%E7%B5%AE%23&Refer=top) `247.6K 🔥` 
+1. [龚俊为EDG打call](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E4%B8%BAEDG%E6%89%93call%23&Refer=top) `285.9K 🔥` 
 
-1. [国家卫健委回应疫情零容忍政策](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%94%BF%E7%AD%96%23&Refer=top) `246.5K 🔥` 
+1. [周扬青陈瑞丰高甜售后](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E9%99%88%E7%91%9E%E4%B8%B0%E9%AB%98%E7%94%9C%E5%94%AE%E5%90%8E%23&Refer=top) `269.7K 🔥` 
 
-1. [刘耀文练习室花絮照](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E7%BB%83%E4%B9%A0%E5%AE%A4%E8%8A%B1%E7%B5%AE%E7%85%A7%23&Refer=top) `240.4K 🔥` 
+1. [一人一句为EDG加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BAEDG%E5%8A%A0%E6%B2%B9%23&Refer=top) `269.1K 🔥` 
 
-1. [女生照镜子时的默契程度](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%85%A7%E9%95%9C%E5%AD%90%E6%97%B6%E7%9A%84%E9%BB%98%E5%A5%91%E7%A8%8B%E5%BA%A6%23&Refer=top) `232.0K 🔥` 
+1. [京粤大战](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E7%B2%A4%E5%A4%A7%E6%88%98%23&Refer=top) `265.2K 🔥` 
 
-1. [北京初雪摄影大赛](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%88%9D%E9%9B%AA%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%23&Refer=top) `208.3K 🔥` 
+1. [张予曦刘学义的新剧花絮](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%88%98%E5%AD%A6%E4%B9%89%E7%9A%84%E6%96%B0%E5%89%A7%E8%8A%B1%E7%B5%AE%23&Refer=top) `260.6K 🔥` 
 
-1. [幼儿园宝宝挂二维码排队做核酸](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%AE%9D%E5%AE%9D%E6%8C%82%E4%BA%8C%E7%BB%B4%E7%A0%81%E6%8E%92%E9%98%9F%E5%81%9A%E6%A0%B8%E9%85%B8%23&Refer=top) `200.7K 🔥` 
+1. [突围](https://s.weibo.com/weibo?q=%E7%AA%81%E5%9B%B4&Refer=top) `260.2K 🔥` 
 
-1. [山西一银行职员私自转走储户1200万](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E9%93%B6%E8%A1%8C%E8%81%8C%E5%91%98%E7%A7%81%E8%87%AA%E8%BD%AC%E8%B5%B0%E5%82%A8%E6%88%B71200%E4%B8%87%23&Refer=top) `200.7K 🔥` 
+1. [S11总决赛开场有梦龙](https://s.weibo.com/weibo?q=%23S11%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E5%9C%BA%E6%9C%89%E6%A2%A6%E9%BE%99%23&Refer=top) `259.7K 🔥` 
 
-1. [女儿们的恋爱第四季观后感](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%BB%AC%E7%9A%84%E6%81%8B%E7%88%B1%E7%AC%AC%E5%9B%9B%E5%AD%A3%E8%A7%82%E5%90%8E%E6%84%9F%23&Refer=top) `200.2K 🔥` 
+1. [EDG我们一起拼到底](https://s.weibo.com/weibo?q=%23EDG%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%8B%BC%E5%88%B0%E5%BA%95%23&Refer=top) `256.7K 🔥` 
 
-1. [民警带隔离居民跳广播操](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%B8%A6%E9%9A%94%E7%A6%BB%E5%B1%85%E6%B0%91%E8%B7%B3%E5%B9%BF%E6%92%AD%E6%93%8D%23&Refer=top) `188.3K 🔥` 
+1. [宝莲灯主演16年前后对比](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E8%8E%B2%E7%81%AF%E4%B8%BB%E6%BC%9416%E5%B9%B4%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&Refer=top) `249.6K 🔥` 
 
-1. [EDG我们一起拼到底](https://s.weibo.com/weibo?q=%23EDG%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E6%8B%BC%E5%88%B0%E5%BA%95%23&Refer=top) `186.3K 🔥` 
+1. [国家卫健委回应疫情零容忍政策](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%94%BF%E7%AD%96%23&Refer=top) `245.1K 🔥` 
 
-1. [黑龙江河南四川等地疫情仍在发展中](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E6%B2%B3%E5%8D%97%E5%9B%9B%E5%B7%9D%E7%AD%89%E5%9C%B0%E7%96%AB%E6%83%85%E4%BB%8D%E5%9C%A8%E5%8F%91%E5%B1%95%E4%B8%AD%23&Refer=top) `184.2K 🔥` 
+1. [把拼好的乐高摔掉是什么体验](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%8B%BC%E5%A5%BD%E7%9A%84%E4%B9%90%E9%AB%98%E6%91%94%E6%8E%89%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) `243.4K 🔥` 
 
-1. [秋天的颜值又让我破防了](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E9%A2%9C%E5%80%BC%E5%8F%88%E8%AE%A9%E6%88%91%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) `176.2K 🔥` 
+1. [本轮疫情由多个不关联的境外输入源头引起](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E7%94%B1%E5%A4%9A%E4%B8%AA%E4%B8%8D%E5%85%B3%E8%81%94%E7%9A%84%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E6%BA%90%E5%A4%B4%E5%BC%95%E8%B5%B7%23&Refer=top) `230.7K 🔥` 
 
-1. [S11主题曲](https://s.weibo.com/weibo?q=S11%E4%B8%BB%E9%A2%98%E6%9B%B2&Refer=top) `176.0K 🔥` 
+1. [肖若腾期待与EDG选手亚运会见](https://s.weibo.com/weibo?q=%23%E8%82%96%E8%8B%A5%E8%85%BE%E6%9C%9F%E5%BE%85%E4%B8%8EEDG%E9%80%89%E6%89%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%A7%81%23&Refer=top) `224.1K 🔥` 
 
-1. [此轮疫情波及20省44市](https://s.weibo.com/weibo?q=%23%E6%AD%A4%E8%BD%AE%E7%96%AB%E6%83%85%E6%B3%A2%E5%8F%8A20%E7%9C%8144%E5%B8%82%23&Refer=top) `168.9K 🔥` 
+1. [老人昏厥倒地女护士弃车飞奔救人](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%98%8F%E5%8E%A5%E5%80%92%E5%9C%B0%E5%A5%B3%E6%8A%A4%E5%A3%AB%E5%BC%83%E8%BD%A6%E9%A3%9E%E5%A5%94%E6%95%91%E4%BA%BA%23&Refer=top) `223.9K 🔥` 
 
-1. [包邮区最能吃辣的城市](https://s.weibo.com/weibo?q=%23%E5%8C%85%E9%82%AE%E5%8C%BA%E6%9C%80%E8%83%BD%E5%90%83%E8%BE%A3%E7%9A%84%E5%9F%8E%E5%B8%82%23&Refer=top) `162.2K 🔥` 
+1. [大风雨雪降温强势来袭](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%A3%8E%E9%9B%A8%E9%9B%AA%E9%99%8D%E6%B8%A9%E5%BC%BA%E5%8A%BF%E6%9D%A5%E8%A2%AD%23&Refer=top) `217.1K 🔥` 
 
-1. [EDG决赛加油](https://s.weibo.com/weibo?q=%23EDG%E5%86%B3%E8%B5%9B%E5%8A%A0%E6%B2%B9%23&Refer=top) `160.9K 🔥` 
+1. [刘耀文练习室花絮照](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E7%BB%83%E4%B9%A0%E5%AE%A4%E8%8A%B1%E7%B5%AE%E7%85%A7%23&Refer=top) `216.8K 🔥` 
 
-1. [李莎旻子写歌告别女儿们的恋爱](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E5%86%99%E6%AD%8C%E5%91%8A%E5%88%AB%E5%A5%B3%E5%84%BF%E4%BB%AC%E7%9A%84%E6%81%8B%E7%88%B1%23&Refer=top) `159.1K 🔥` 
+1. [女生照镜子时的默契程度](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%85%A7%E9%95%9C%E5%AD%90%E6%97%B6%E7%9A%84%E9%BB%98%E5%A5%91%E7%A8%8B%E5%BA%A6%23&Refer=top) `209.5K 🔥` 
 
-1. [秦霄贤五岁前被以为是哑巴](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9C%84%E8%B4%A4%E4%BA%94%E5%B2%81%E5%89%8D%E8%A2%AB%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%93%91%E5%B7%B4%23&Refer=top) `149.3K 🔥` 
+1. [北京初雪摄影大赛](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%88%9D%E9%9B%AA%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%23&Refer=top) `196.3K 🔥` 
 
-1. [娜扎中美电视节年度优秀青年演员](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E4%B8%AD%E7%BE%8E%E7%94%B5%E8%A7%86%E8%8A%82%E5%B9%B4%E5%BA%A6%E4%BC%98%E7%A7%80%E9%9D%92%E5%B9%B4%E6%BC%94%E5%91%98%23&Refer=top) `138.3K 🔥` 
+1. [民警带隔离居民跳广播操](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%B8%A6%E9%9A%94%E7%A6%BB%E5%B1%85%E6%B0%91%E8%B7%B3%E5%B9%BF%E6%92%AD%E6%93%8D%23&Refer=top) `178.5K 🔥` 
 
-1. [济南大大大大暴雪要来了](https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%A4%A7%E5%A4%A7%E5%A4%A7%E5%A4%A7%E6%9A%B4%E9%9B%AA%E8%A6%81%E6%9D%A5%E4%BA%86%23&Refer=top) `135.3K 🔥` 
+1. [冰墩墩雪容融戴上雪帽子](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%9B%AA%E5%AE%B9%E8%9E%8D%E6%88%B4%E4%B8%8A%E9%9B%AA%E5%B8%BD%E5%AD%90%23&Refer=top) `173.4K 🔥` 
 
