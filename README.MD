@@ -5,104 +5,104 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2023-06-24 13:29:09 
-1. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=1&Refer=top) `2.9M 🔥` 
+## 微博今日热榜 更新于 2023-06-24 13:39:11 
+1. [俄罗斯](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=1&Refer=top) `2.8M 🔥` 
 
-1. [女生高考712分查完分就睡了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top) `1.7M 🔥` 
+1. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=2&Refer=top) `2.0M 🔥` 
 
-1. [31省份报志愿时间全汇总](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E6%8A%A5%E5%BF%97%E6%84%BF%E6%97%B6%E9%97%B4%E5%85%A8%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top) `1.5M 🔥` 
+1. [31省份报志愿时间全汇总](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E6%8A%A5%E5%BF%97%E6%84%BF%E6%97%B6%E9%97%B4%E5%85%A8%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top) `1.8M 🔥` 
 
-1. [她她她](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=4&Refer=top) `1.4M 🔥` 
+1. [瓦格纳称已控制罗斯托夫地区军用设施](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%9C%B0%E5%8C%BA%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD%23&t=31&band_rank=4&Refer=top) `1.8M 🔥` 
 
-1. [瓦格纳创始人否认试图发动武装叛乱](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23&t=31&band_rank=5&Refer=top) `1.4M 🔥` 
+1. [女生高考712分查完分就睡了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83712%E5%88%86%E6%9F%A5%E5%AE%8C%E5%88%86%E5%B0%B1%E7%9D%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top) `1.4M 🔥` 
 
 1. [炎亚纶 还好没有我的脸](https://s.weibo.com/weibo?q=%E7%82%8E%E4%BA%9A%E7%BA%B6%20%E8%BF%98%E5%A5%BD%E6%B2%A1%E6%9C%89%E6%88%91%E7%9A%84%E8%84%B8&t=31&band_rank=6&Refer=top) `1.4M 🔥` 
 
-1. [白敬亭第一次不爱鞋](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%88%B1%E9%9E%8B%23&t=31&band_rank=7&Refer=top) `1.4M 🔥` 
+1. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=7&Refer=top) `1.4M 🔥` 
 
-1. [高考理科623分决心复读了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91623%E5%88%86%E5%86%B3%E5%BF%83%E5%A4%8D%E8%AF%BB%E4%BA%86%23&t=31&band_rank=8&Refer=top) `1.3M 🔥` 
+1. [瓦格纳创始人否认试图发动武装叛乱](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E8%AF%95%E5%9B%BE%E5%8F%91%E5%8A%A8%E6%AD%A6%E8%A3%85%E5%8F%9B%E4%B9%B1%23&t=31&band_rank=8&Refer=top) `1.3M 🔥` 
 
-1. [柳智敏](https://s.weibo.com/weibo?q=%E6%9F%B3%E6%99%BA%E6%95%8F&t=31&band_rank=9&Refer=top) `1.1M 🔥` 
+1. [白敬亭第一次不爱鞋](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E7%88%B1%E9%9E%8B%23&t=31&band_rank=9&Refer=top) `1.2M 🔥` 
 
-1. [赵丽颖 戴比尔斯](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF&t=31&band_rank=10&Refer=top) `1.1M 🔥` 
+1. [闭嘴跳舞 本季最佳](https://s.weibo.com/weibo?q=%E9%97%AD%E5%98%B4%E8%B7%B3%E8%88%9E%20%E6%9C%AC%E5%AD%A3%E6%9C%80%E4%BD%B3&t=31&band_rank=10&Refer=top) `1.0M 🔥` 
 
 1. [炎亚纶前男友A先生再爆料](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%89%8D%E7%94%B7%E5%8F%8BA%E5%85%88%E7%94%9F%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top) `1.0M 🔥` 
 
-1. [瓦格纳称已控制罗斯托夫地区军用设施](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E7%BD%97%E6%96%AF%E6%89%98%E5%A4%AB%E5%9C%B0%E5%8C%BA%E5%86%9B%E7%94%A8%E8%AE%BE%E6%96%BD%23&t=31&band_rank=12&Refer=top) `1.0M 🔥` 
+1. [俄总检察长已向普京汇报情况](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%80%BB%E6%A3%80%E5%AF%9F%E9%95%BF%E5%B7%B2%E5%90%91%E6%99%AE%E4%BA%AC%E6%B1%87%E6%8A%A5%E6%83%85%E5%86%B5%23&t=31&band_rank=12&Refer=top) `928.2K 🔥` 
 
-1. [基辅称击落了超20枚俄军导弹](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%85%E7%A7%B0%E5%87%BB%E8%90%BD%E4%BA%86%E8%B6%8520%E6%9E%9A%E4%BF%84%E5%86%9B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=13&Refer=top) `1.0M 🔥` 
+1. [柳智敏](https://s.weibo.com/weibo?q=%E6%9F%B3%E6%99%BA%E6%95%8F&t=31&band_rank=13&Refer=top) `914.8K 🔥` 
 
-1. [外媒称瓦格纳部队正进入俄南部](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8%23&t=31&band_rank=14&Refer=top) `986.6K 🔥` 
+1. [赵丽颖 戴比尔斯](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%20%E6%88%B4%E6%AF%94%E5%B0%94%E6%96%AF&t=31&band_rank=14&Refer=top) `877.0K 🔥` 
 
-1. [原神 Keep](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%20Keep%23&t=31&band_rank=15&Refer=top) `981.2K 🔥` 
+1. [原神 Keep](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%20Keep%23&t=31&band_rank=15&Refer=top) `857.4K 🔥` 
 
-1. [女生查分666全家齐喊666](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9F%A5%E5%88%86666%E5%85%A8%E5%AE%B6%E9%BD%90%E5%96%8A666%23&t=31&band_rank=16&Refer=top) `977.2K 🔥` 
+1. [女生查分666全家齐喊666](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9F%A5%E5%88%86666%E5%85%A8%E5%AE%B6%E9%BD%90%E5%96%8A666%23&t=31&band_rank=16&Refer=top) `841.3K 🔥` 
 
-1. [俄总检察长已向普京汇报情况](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%80%BB%E6%A3%80%E5%AF%9F%E9%95%BF%E5%B7%B2%E5%90%91%E6%99%AE%E4%BA%AC%E6%B1%87%E6%8A%A5%E6%83%85%E5%86%B5%23&t=31&band_rank=17&Refer=top) `953.3K 🔥` 
+1. [外媒称瓦格纳部队正进入俄南部](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%83%A8%E9%98%9F%E6%AD%A3%E8%BF%9B%E5%85%A5%E4%BF%84%E5%8D%97%E9%83%A8%23&t=31&band_rank=17&Refer=top) `828.9K 🔥` 
 
-1. [白宫称美方正关注俄国内局势](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%BE%8E%E6%96%B9%E6%AD%A3%E5%85%B3%E6%B3%A8%E4%BF%84%E5%9B%BD%E5%86%85%E5%B1%80%E5%8A%BF%23&t=31&band_rank=18&Refer=top) `747.2K 🔥` 
+1. [基辅称击落了超20枚俄军导弹](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E8%BE%85%E7%A7%B0%E5%87%BB%E8%90%BD%E4%BA%86%E8%B6%8520%E6%9E%9A%E4%BF%84%E5%86%9B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=18&Refer=top) `828.4K 🔥` 
 
-1. [俄罗斯安全局对瓦格纳首领提起刑事诉讼](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%89%E5%85%A8%E5%B1%80%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E6%8F%90%E8%B5%B7%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC%23&t=31&band_rank=19&Refer=top) `730.9K 🔥` 
+1. [宁静说赵丽颖也是从横店街上出来的](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E8%AF%B4%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E6%98%AF%E4%BB%8E%E6%A8%AA%E5%BA%97%E8%A1%97%E4%B8%8A%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=19&Refer=top) `764.7K 🔥` 
 
-1. [吴越 是不是大女主都没关系](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=20&Refer=top) `713.1K 🔥` 
+1. [白宫称美方正关注俄国内局势](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E7%BE%8E%E6%96%B9%E6%AD%A3%E5%85%B3%E6%B3%A8%E4%BF%84%E5%9B%BD%E5%86%85%E5%B1%80%E5%8A%BF%23&t=31&band_rank=20&Refer=top) `679.1K 🔥` 
 
-1. [在一起五年分手了是什么体验](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%94%E5%B9%B4%E5%88%86%E6%89%8B%E4%BA%86%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=21&Refer=top) `711.1K 🔥` 
+1. [在一起五年分手了是什么体验](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%94%E5%B9%B4%E5%88%86%E6%89%8B%E4%BA%86%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=21&Refer=top) `675.9K 🔥` 
 
-1. [姚景元高考分数401](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%AF%E5%85%83%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0401%23&t=31&band_rank=22&Refer=top) `702.6K 🔥` 
+1. [俄罗斯安全局对瓦格纳首领提起刑事诉讼](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%89%E5%85%A8%E5%B1%80%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%A6%96%E9%A2%86%E6%8F%90%E8%B5%B7%E5%88%91%E4%BA%8B%E8%AF%89%E8%AE%BC%23&t=31&band_rank=22&Refer=top) `634.6K 🔥` 
 
-1. [狂飙没拿奖](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%B2%A1%E6%8B%BF%E5%A5%96%23&t=31&band_rank=23&Refer=top) `597.2K 🔥` 
+1. [姚景元高考分数401](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%AF%E5%85%83%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0401%23&t=31&band_rank=23&Refer=top) `619.7K 🔥` 
 
-1. [莫斯科正在进行反恐行动](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C%E5%8F%8D%E6%81%90%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=24&Refer=top) `569.1K 🔥` 
+1. [吴越 是不是大女主都没关系](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%B2%A1%E5%85%B3%E7%B3%BB&t=31&band_rank=24&Refer=top) `619.3K 🔥` 
 
-1. [33岁单身女管文被年龄绑架相亲](https://s.weibo.com/weibo?q=%2333%E5%B2%81%E5%8D%95%E8%BA%AB%E5%A5%B3%E7%AE%A1%E6%96%87%E8%A2%AB%E5%B9%B4%E9%BE%84%E7%BB%91%E6%9E%B6%E7%9B%B8%E4%BA%B2%23&t=31&band_rank=25&Refer=top) `499.1K 🔥` 
+1. [莫斯科正在进行反恐行动](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E6%AD%A3%E5%9C%A8%E8%BF%9B%E8%A1%8C%E5%8F%8D%E6%81%90%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=25&Refer=top) `557.8K 🔥` 
 
-1. [王俊凯懂张凌赫的痛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%87%82%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E7%97%9B%23&t=31&band_rank=26&Refer=top) `465.1K 🔥` 
+1. [狂飙没拿奖](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E6%B2%A1%E6%8B%BF%E5%A5%96%23&t=31&band_rank=26&Refer=top) `502.8K 🔥` 
 
-1. [高考400分能上什么大学](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83400%E5%88%86%E8%83%BD%E4%B8%8A%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=27&Refer=top) `447.6K 🔥` 
+1. [雷佳音你要不要回头看看赵丽颖](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E4%BD%A0%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%B4%E7%9C%8B%E7%9C%8B%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=27&Refer=top) `456.1K 🔥` 
 
-1. [闭嘴跳舞 本季最佳](https://s.weibo.com/weibo?q=%E9%97%AD%E5%98%B4%E8%B7%B3%E8%88%9E%20%E6%9C%AC%E5%AD%A3%E6%9C%80%E4%BD%B3&t=31&band_rank=28&Refer=top) `447.4K 🔥` 
+1. [高考400分能上什么大学](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83400%E5%88%86%E8%83%BD%E4%B8%8A%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=28&Refer=top) `445.6K 🔥` 
 
-1. [孙千评论赵丽颖说你跑我追](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%84%E8%AE%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BD%A0%E8%B7%91%E6%88%91%E8%BF%BD%23&t=31&band_rank=29&Refer=top) `437.3K 🔥` 
+1. [33岁单身女管文被年龄绑架相亲](https://s.weibo.com/weibo?q=%2333%E5%B2%81%E5%8D%95%E8%BA%AB%E5%A5%B3%E7%AE%A1%E6%96%87%E8%A2%AB%E5%B9%B4%E9%BE%84%E7%BB%91%E6%9E%B6%E7%9B%B8%E4%BA%B2%23&t=31&band_rank=29&Refer=top) `420.2K 🔥` 
 
-1. [身高150腿长90的人是这样的](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E9%AB%98150%E8%85%BF%E9%95%BF90%E7%9A%84%E4%BA%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23&t=31&band_rank=30&Refer=top) `432.7K 🔥` 
+1. [身高150腿长90的人是这样的](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E9%AB%98150%E8%85%BF%E9%95%BF90%E7%9A%84%E4%BA%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23&t=31&band_rank=30&Refer=top) `397.7K 🔥` 
 
-1. [雷佳音你要不要回头看看赵丽颖](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E4%BD%A0%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%B4%E7%9C%8B%E7%9C%8B%E8%B5%B5%E4%B8%BD%E9%A2%96%23&t=31&band_rank=31&Refer=top) `411.4K 🔥` 
+1. [王俊凯懂张凌赫的痛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%87%82%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9A%84%E7%97%9B%23&t=31&band_rank=31&Refer=top) `397.2K 🔥` 
 
-1. [狐妖小红娘无暮篇](https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E6%97%A0%E6%9A%AE%E7%AF%87%23&t=31&band_rank=32&Refer=top) `381.9K 🔥` 
+1. [孙千评论赵丽颖说你跑我追](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%AF%84%E8%AE%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BD%A0%E8%B7%91%E6%88%91%E8%BF%BD%23&t=31&band_rank=32&Refer=top) `392.7K 🔥` 
 
-1. [宁静说赵丽颖也是从横店街上出来的](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E8%AF%B4%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B9%9F%E6%98%AF%E4%BB%8E%E6%A8%AA%E5%BA%97%E8%A1%97%E4%B8%8A%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=33&Refer=top) `381.7K 🔥` 
+1. [莫斯科街头出现大批军车](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E8%A1%97%E5%A4%B4%E5%87%BA%E7%8E%B0%E5%A4%A7%E6%89%B9%E5%86%9B%E8%BD%A6%23&t=31&band_rank=33&Refer=top) `363.6K 🔥` 
 
-1. [在山里不认识的东西不要乱碰](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%B1%B1%E9%87%8C%E4%B8%8D%E8%AE%A4%E8%AF%86%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%B8%8D%E8%A6%81%E4%B9%B1%E7%A2%B0&t=31&band_rank=34&Refer=top) `374.5K 🔥` 
+1. [戒糖一年的变化](https://s.weibo.com/weibo?q=%23%E6%88%92%E7%B3%96%E4%B8%80%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=34&Refer=top) `354.3K 🔥` 
 
-1. [高考状元](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83&t=31&band_rank=35&Refer=top) `373.8K 🔥` 
+1. [在山里不认识的东西不要乱碰](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%B1%B1%E9%87%8C%E4%B8%8D%E8%AE%A4%E8%AF%86%E7%9A%84%E4%B8%9C%E8%A5%BF%E4%B8%8D%E8%A6%81%E4%B9%B1%E7%A2%B0&t=31&band_rank=35&Refer=top) `351.9K 🔥` 
 
-1. [重庆分数线](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%88%86%E6%95%B0%E7%BA%BF&t=31&band_rank=36&Refer=top) `372.9K 🔥` 
+1. [谢娜彩排大哭](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BD%A9%E6%8E%92%E5%A4%A7%E5%93%AD%23&t=31&band_rank=36&Refer=top) `333.8K 🔥` 
 
-1. [莫斯科街头出现大批军车](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E8%A1%97%E5%A4%B4%E5%87%BA%E7%8E%B0%E5%A4%A7%E6%89%B9%E5%86%9B%E8%BD%A6%23&t=31&band_rank=37&Refer=top) `372.1K 🔥` 
+1. [狐妖小红娘无暮篇](https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E6%97%A0%E6%9A%AE%E7%AF%87%23&t=31&band_rank=37&Refer=top) `327.1K 🔥` 
 
-1. [戒糖一年的变化](https://s.weibo.com/weibo?q=%23%E6%88%92%E7%B3%96%E4%B8%80%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=38&Refer=top) `348.3K 🔥` 
+1. [重庆分数线](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%88%86%E6%95%B0%E7%BA%BF&t=31&band_rank=38&Refer=top) `314.9K 🔥` 
 
-1. [大小S宣布起诉葛斯齐](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90%23&t=31&band_rank=39&Refer=top) `340.4K 🔥` 
+1. [徐明浩徒手劈西瓜把沈月看呆了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E5%BE%92%E6%89%8B%E5%8A%88%E8%A5%BF%E7%93%9C%E6%8A%8A%E6%B2%88%E6%9C%88%E7%9C%8B%E5%91%86%E4%BA%86%23&t=31&band_rank=39&Refer=top) `307.0K 🔥` 
 
-1. [徐明浩徒手劈西瓜把沈月看呆了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E5%BE%92%E6%89%8B%E5%8A%88%E8%A5%BF%E7%93%9C%E6%8A%8A%E6%B2%88%E6%9C%88%E7%9C%8B%E5%91%86%E4%BA%86%23&t=31&band_rank=40&Refer=top) `339.5K 🔥` 
+1. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=40&Refer=top) `306.8K 🔥` 
 
-1. [女儿587分爸爸大喊祖坟冒烟了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF587%E5%88%86%E7%88%B8%E7%88%B8%E5%A4%A7%E5%96%8A%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=41&Refer=top) `336.9K 🔥` 
+1. [大小S宣布起诉葛斯齐](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90%23&t=31&band_rank=41&Refer=top) `303.0K 🔥` 
 
-1. [鹿晗演唱会上不敢读的灯牌](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%8D%E6%95%A2%E8%AF%BB%E7%9A%84%E7%81%AF%E7%89%8C%23&t=31&band_rank=42&Refer=top) `335.0K 🔥` 
+1. [高考状元](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%8A%B6%E5%85%83&t=31&band_rank=42&Refer=top) `300.1K 🔥` 
 
-1. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=43&Refer=top) `308.1K 🔥` 
+1. [女儿587分爸爸大喊祖坟冒烟了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF587%E5%88%86%E7%88%B8%E7%88%B8%E5%A4%A7%E5%96%8A%E7%A5%96%E5%9D%9F%E5%86%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=43&Refer=top) `296.4K 🔥` 
 
-1. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=44&Refer=top) `305.2K 🔥` 
+1. [高考分数线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&t=31&band_rank=44&Refer=top) `276.6K 🔥` 
 
-1. [四公](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AC&t=31&band_rank=45&Refer=top) `296.1K 🔥` 
+1. [瓦格纳](https://s.weibo.com/weibo?q=%23%E7%93%A6%E6%A0%BC%E7%BA%B3%23&t=31&band_rank=45&Refer=top) `265.8K 🔥` 
 
-1. [鹿晗 年轻人真好](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%20%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%9F%E5%A5%BD&t=31&band_rank=46&Refer=top) `270.5K 🔥` 
+1. [莫斯科已加强安全措施](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B7%B2%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD%23&t=31&band_rank=46&Refer=top) `261.8K 🔥` 
 
-1. [莫斯科已加强安全措施](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B7%B2%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E6%8E%AA%E6%96%BD%23&t=31&band_rank=47&Refer=top) `269.4K 🔥` 
+1. [成都七中文理科六边形战士](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%83%E4%B8%AD%E6%96%87%E7%90%86%E7%A7%91%E5%85%AD%E8%BE%B9%E5%BD%A2%E6%88%98%E5%A3%AB%23&t=31&band_rank=47&Refer=top) `260.7K 🔥` 
 
-1. [廉价的正义感比冷漠更可怕](https://s.weibo.com/weibo?q=%E5%BB%89%E4%BB%B7%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E6%AF%94%E5%86%B7%E6%BC%A0%E6%9B%B4%E5%8F%AF%E6%80%95&t=31&band_rank=48&Refer=top) `269.0K 🔥` 
+1. [廉价的正义感比冷漠更可怕](https://s.weibo.com/weibo?q=%E5%BB%89%E4%BB%B7%E7%9A%84%E6%AD%A3%E4%B9%89%E6%84%9F%E6%AF%94%E5%86%B7%E6%BC%A0%E6%9B%B4%E5%8F%AF%E6%80%95&t=31&band_rank=48&Refer=top) `257.8K 🔥` 
 
-1. [鹿晗演唱会没唱勋章](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B2%A1%E5%94%B1%E5%8B%8B%E7%AB%A0%23&t=31&band_rank=49&Refer=top) `266.6K 🔥` 
+1. [一人一句给绿水青山点赞](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BB%99%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E7%82%B9%E8%B5%9E%23&t=31&band_rank=49&Refer=top) `257.8K 🔥` 
 
-1. [雾山五行2定档](https://s.weibo.com/weibo?q=%23%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C2%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=50&Refer=top) `249.6K 🔥` 
+1. [四川居然有一片蓝色海洋](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B1%85%E7%84%B6%E6%9C%89%E4%B8%80%E7%89%87%E8%93%9D%E8%89%B2%E6%B5%B7%E6%B4%8B%23&t=31&band_rank=50&Refer=top) `238.5K 🔥` 
 
