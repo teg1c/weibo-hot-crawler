@@ -5,104 +5,104 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2025-06-20 17:51:34 
-1. [清华回应女教授被树砸身亡](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E6%8E%88%E8%A2%AB%E6%A0%91%E7%A0%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) `1.9M 🔥` 
+## 微博今日热榜 更新于 2025-06-20 18:18:38 
+1. [清华回应女教授被树砸身亡](https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%95%99%E6%8E%88%E8%A2%AB%E6%A0%91%E7%A0%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) `1.6M 🔥` 
 
-1. [花少7 张雅琪](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%917%20%E5%BC%A0%E9%9B%85%E7%90%AA&t=31&band_rank=2&Refer=top) `1.1M 🔥` 
+1. [花少7 张雅琪](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%917%20%E5%BC%A0%E9%9B%85%E7%90%AA&t=31&band_rank=2&Refer=top) `1.6M 🔥` 
 
-1. [锦绣天府安逸四川](https://s.weibo.com/weibo?q=%23%E9%94%A6%E7%BB%A3%E5%A4%A9%E5%BA%9C%E5%AE%89%E9%80%B8%E5%9B%9B%E5%B7%9D%23&t=31&band_rank=3&Refer=top) `1.0M 🔥` 
+1. [锦绣天府安逸四川](https://s.weibo.com/weibo?q=%23%E9%94%A6%E7%BB%A3%E5%A4%A9%E5%BA%9C%E5%AE%89%E9%80%B8%E5%9B%9B%E5%B7%9D%23&t=31&band_rank=3&Refer=top) `1.4M 🔥` 
 
-1. [花少7网传最终阵容](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E7%BD%91%E4%BC%A0%E6%9C%80%E7%BB%88%E9%98%B5%E5%AE%B9%23&t=31&band_rank=4&Refer=top) `1.0M 🔥` 
+1. [中国留学生迷奸10人受害者发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BF%B7%E5%A5%B810%E4%BA%BA%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=4&Refer=top) `1.3M 🔥` 
 
-1. [杀害杨靖宇日本军官自杀前的遗言](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E6%9D%A8%E9%9D%96%E5%AE%87%E6%97%A5%E6%9C%AC%E5%86%9B%E5%AE%98%E8%87%AA%E6%9D%80%E5%89%8D%E7%9A%84%E9%81%97%E8%A8%80%23&t=31&band_rank=5&Refer=top) `640.0K 🔥` 
+1. [张爱玲 清华](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%88%B1%E7%8E%B2%20%E6%B8%85%E5%8D%8E&t=31&band_rank=5&Refer=top) `728.3K 🔥` 
 
-1. [北大退学男子一战669分二战716分](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%80%80%E5%AD%A6%E7%94%B7%E5%AD%90%E4%B8%80%E6%88%98669%E5%88%86%E4%BA%8C%E6%88%98716%E5%88%86%23&t=31&band_rank=6&Refer=top) `537.0K 🔥` 
+1. [清华大学](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6&t=31&band_rank=6&Refer=top) `526.3K 🔥` 
 
-1. [小沈阳女儿希望像前辈Jennie一样](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A5%B3%E5%84%BF%E5%B8%8C%E6%9C%9B%E5%83%8F%E5%89%8D%E8%BE%88Jennie%E4%B8%80%E6%A0%B7%23&t=31&band_rank=7&Refer=top) `527.2K 🔥` 
+1. [花少7网传最终阵容](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E7%BD%91%E4%BC%A0%E6%9C%80%E7%BB%88%E9%98%B5%E5%AE%B9%23&t=31&band_rank=7&Refer=top) `511.3K 🔥` 
 
-1. [张爱玲 清华](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%88%B1%E7%8E%B2%20%E6%B8%85%E5%8D%8E&t=31&band_rank=8&Refer=top) `482.4K 🔥` 
+1. [大学生HIV感染情况](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9FHIV%E6%84%9F%E6%9F%93%E6%83%85%E5%86%B5&t=31&band_rank=8&Refer=top) `489.5K 🔥` 
 
-1. [于正被爆在闲鱼招素人演员](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%A2%AB%E7%88%86%E5%9C%A8%E9%97%B2%E9%B1%BC%E6%8B%9B%E7%B4%A0%E4%BA%BA%E6%BC%94%E5%91%98%23&t=31&band_rank=9&Refer=top) `474.8K 🔥` 
+1. [李光洁说不想和蒋欣演两口子了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%89%E6%B4%81%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%92%8C%E8%92%8B%E6%AC%A3%E6%BC%94%E4%B8%A4%E5%8F%A3%E5%AD%90%E4%BA%86%23&t=31&band_rank=9&Refer=top) `414.2K 🔥` 
 
-1. [黄晓明回应考博落榜](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E8%80%83%E5%8D%9A%E8%90%BD%E6%A6%9C%23&t=31&band_rank=10&Refer=top) `458.7K 🔥` 
+1. [男孩结婚2小时后坠亡婚姻被判无效](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%BB%93%E5%A9%9A2%E5%B0%8F%E6%97%B6%E5%90%8E%E5%9D%A0%E4%BA%A1%E5%A9%9A%E5%A7%BB%E8%A2%AB%E5%88%A4%E6%97%A0%E6%95%88%23&t=31&band_rank=10&Refer=top) `410.7K 🔥` 
 
-1. [大学生HIV感染情况](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9FHIV%E6%84%9F%E6%9F%93%E6%83%85%E5%86%B5&t=31&band_rank=11&Refer=top) `451.9K 🔥` 
+1. [小沈阳女儿希望像前辈Jennie一样](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A5%B3%E5%84%BF%E5%B8%8C%E6%9C%9B%E5%83%8F%E5%89%8D%E8%BE%88Jennie%E4%B8%80%E6%A0%B7%23&t=31&band_rank=11&Refer=top) `410.4K 🔥` 
 
-1. [淘宝闪购](https://s.weibo.com/weibo?q=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD&t=31&band_rank=12&Refer=top) `417.1K 🔥` 
+1. [于正被爆在闲鱼招素人演员](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%A2%AB%E7%88%86%E5%9C%A8%E9%97%B2%E9%B1%BC%E6%8B%9B%E7%B4%A0%E4%BA%BA%E6%BC%94%E5%91%98%23&t=31&band_rank=12&Refer=top) `410.2K 🔥` 
 
-1. [现在就出发](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91&t=31&band_rank=13&Refer=top) `364.7K 🔥` 
+1. [杀害杨靖宇日本军官自杀前的遗言](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E6%9D%A8%E9%9D%96%E5%AE%87%E6%97%A5%E6%9C%AC%E5%86%9B%E5%AE%98%E8%87%AA%E6%9D%80%E5%89%8D%E7%9A%84%E9%81%97%E8%A8%80%23&t=31&band_rank=13&Refer=top) `409.1K 🔥` 
 
-1. [伊朗导弹直接命中在以中国留学生校园](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E7%9B%B4%E6%8E%A5%E5%91%BD%E4%B8%AD%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%9B%AD%23&t=31&band_rank=14&Refer=top) `330.9K 🔥` 
+1. [现在就出发](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91&t=31&band_rank=14&Refer=top) `368.1K 🔥` 
 
-1. [教授被树砸身亡系校外企业违规作业](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E8%A2%AB%E6%A0%91%E7%A0%B8%E8%BA%AB%E4%BA%A1%E7%B3%BB%E6%A0%A1%E5%A4%96%E4%BC%81%E4%B8%9A%E8%BF%9D%E8%A7%84%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=15&Refer=top) `295.0K 🔥` 
+1. [北大退学考清华男生否认拿高考赚钱](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%80%80%E5%AD%A6%E8%80%83%E6%B8%85%E5%8D%8E%E7%94%B7%E7%94%9F%E5%90%A6%E8%AE%A4%E6%8B%BF%E9%AB%98%E8%80%83%E8%B5%9A%E9%92%B1%23&t=31&band_rank=15&Refer=top) `354.9K 🔥` 
 
-1. [焦虑症 从小吓出来的](https://s.weibo.com/weibo?q=%E7%84%A6%E8%99%91%E7%97%87%20%E4%BB%8E%E5%B0%8F%E5%90%93%E5%87%BA%E6%9D%A5%E7%9A%84&t=31&band_rank=16&Refer=top) `282.1K 🔥` 
+1. [黄晓明回应考博落榜](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%9E%E5%BA%94%E8%80%83%E5%8D%9A%E8%90%BD%E6%A6%9C%23&t=31&band_rank=16&Refer=top) `354.2K 🔥` 
 
-1. [男孩结婚2小时后坠亡婚姻被判无效](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%BB%93%E5%A9%9A2%E5%B0%8F%E6%97%B6%E5%90%8E%E5%9D%A0%E4%BA%A1%E5%A9%9A%E5%A7%BB%E8%A2%AB%E5%88%A4%E6%97%A0%E6%95%88%23&t=31&band_rank=17&Refer=top) `267.4K 🔥` 
+1. [教授被树砸身亡系校外企业违规作业](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E8%A2%AB%E6%A0%91%E7%A0%B8%E8%BA%AB%E4%BA%A1%E7%B3%BB%E6%A0%A1%E5%A4%96%E4%BC%81%E4%B8%9A%E8%BF%9D%E8%A7%84%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=17&Refer=top) `329.1K 🔥` 
 
-1. [超9000应用具有鸿蒙独特功能](https://s.weibo.com/weibo?q=%23%E8%B6%859000%E5%BA%94%E7%94%A8%E5%85%B7%E6%9C%89%E9%B8%BF%E8%92%99%E7%8B%AC%E7%89%B9%E5%8A%9F%E8%83%BD%23&t=31&band_rank=18&Refer=top) `265.2K 🔥` 
+1. [北大退学男子一战669分二战716分](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E9%80%80%E5%AD%A6%E7%94%B7%E5%AD%90%E4%B8%80%E6%88%98669%E5%88%86%E4%BA%8C%E6%88%98716%E5%88%86%23&t=31&band_rank=18&Refer=top) `277.7K 🔥` 
 
-1. [砍死祖孙三代凶手称吃5年精神病药](https://s.weibo.com/weibo?q=%23%E7%A0%8D%E6%AD%BB%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E5%87%B6%E6%89%8B%E7%A7%B0%E5%90%835%E5%B9%B4%E7%B2%BE%E7%A5%9E%E7%97%85%E8%8D%AF%23&t=31&band_rank=19&Refer=top) `265.0K 🔥` 
+1. [董子健终于加入邓超孙俪这个家了](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%E7%BB%88%E4%BA%8E%E5%8A%A0%E5%85%A5%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E8%BF%99%E4%B8%AA%E5%AE%B6%E4%BA%86&t=31&band_rank=19&Refer=top) `271.9K 🔥` 
 
-1. [被曾舜晞冻干围脖扇感冒了](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%9B%BE%E8%88%9C%E6%99%9E%E5%86%BB%E5%B9%B2%E5%9B%B4%E8%84%96%E6%89%87%E6%84%9F%E5%86%92%E4%BA%86&t=31&band_rank=20&Refer=top) `264.5K 🔥` 
+1. [学医后跨界就业能去哪](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E5%8C%BB%E5%90%8E%E8%B7%A8%E7%95%8C%E5%B0%B1%E4%B8%9A%E8%83%BD%E5%8E%BB%E5%93%AA%23&t=31&band_rank=20&Refer=top) `271.9K 🔥` 
 
-1. [曾毅因身体原因暂停工作](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%AF%85%E5%9B%A0%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0%E6%9A%82%E5%81%9C%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=21&Refer=top) `264.4K 🔥` 
+1. [伊朗导弹直接命中在以中国留学生校园](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E7%9B%B4%E6%8E%A5%E5%91%BD%E4%B8%AD%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%9B%AD%23&t=31&band_rank=21&Refer=top) `271.9K 🔥` 
 
-1. [00后极简出门不背包也太爽了](https://s.weibo.com/weibo?q=00%E5%90%8E%E6%9E%81%E7%AE%80%E5%87%BA%E9%97%A8%E4%B8%8D%E8%83%8C%E5%8C%85%E4%B9%9F%E5%A4%AA%E7%88%BD%E4%BA%86&t=31&band_rank=22&Refer=top) `251.9K 🔥` 
+1. [工人跪地哀求主管别开除](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E8%B7%AA%E5%9C%B0%E5%93%80%E6%B1%82%E4%B8%BB%E7%AE%A1%E5%88%AB%E5%BC%80%E9%99%A4%23&t=31&band_rank=22&Refer=top) `252.2K 🔥` 
 
-1. [徐艺洋和妈妈共用一张脸](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%92%8C%E5%A6%88%E5%A6%88%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23&t=31&band_rank=23&Refer=top) `251.6K 🔥` 
+1. [中方坚决反对以航行自由为名挑衅](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E4%BB%A5%E8%88%AA%E8%A1%8C%E8%87%AA%E7%94%B1%E4%B8%BA%E5%90%8D%E6%8C%91%E8%A1%85%23&t=31&band_rank=23&Refer=top) `251.4K 🔥` 
 
-1. [邵雨轩晒与小花聊天记录](https://s.weibo.com/weibo?q=%23%E9%82%B5%E9%9B%A8%E8%BD%A9%E6%99%92%E4%B8%8E%E5%B0%8F%E8%8A%B1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=24&Refer=top) `249.5K 🔥` 
+1. [现在就出发3](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%913&t=31&band_rank=24&Refer=top) `251.1K 🔥` 
 
-1. [泡泡玛特成立影视部门](https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%88%90%E7%AB%8B%E5%BD%B1%E8%A7%86%E9%83%A8%E9%97%A8%23&t=31&band_rank=25&Refer=top) `248.1K 🔥` 
+1. [焦虑症 从小吓出来的](https://s.weibo.com/weibo?q=%E7%84%A6%E8%99%91%E7%97%87%20%E4%BB%8E%E5%B0%8F%E5%90%93%E5%87%BA%E6%9D%A5%E7%9A%84&t=31&band_rank=25&Refer=top) `236.0K 🔥` 
 
-1. [华为发布全新鸿蒙智能体](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0%E9%B8%BF%E8%92%99%E6%99%BA%E8%83%BD%E4%BD%93%23&t=31&band_rank=26&Refer=top) `244.4K 🔥` 
+1. [华为发布全新鸿蒙智能体](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0%E9%B8%BF%E8%92%99%E6%99%BA%E8%83%BD%E4%BD%93%23&t=31&band_rank=26&Refer=top) `229.1K 🔥` 
 
-1. [中国留学生迷奸10人受害者发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%BF%B7%E5%A5%B810%E4%BA%BA%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=27&Refer=top) `241.6K 🔥` 
+1. [曾毅因身体原因暂停工作](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%AF%85%E5%9B%A0%E8%BA%AB%E4%BD%93%E5%8E%9F%E5%9B%A0%E6%9A%82%E5%81%9C%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=27&Refer=top) `228.7K 🔥` 
 
-1. [以色列顶级科研所被伊朗导弹炸成废墟](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%A1%B6%E7%BA%A7%E7%A7%91%E7%A0%94%E6%89%80%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E7%82%B8%E6%88%90%E5%BA%9F%E5%A2%9F%23&t=31&band_rank=28&Refer=top) `235.2K 🔥` 
+1. [泡泡玛特成立影视部门](https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%88%90%E7%AB%8B%E5%BD%B1%E8%A7%86%E9%83%A8%E9%97%A8%23&t=31&band_rank=28&Refer=top) `220.7K 🔥` 
 
-1. [清华大学](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6&t=31&band_rank=29&Refer=top) `223.3K 🔥` 
+1. [以色列顶级科研所被伊朗导弹炸成废墟](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%A1%B6%E7%BA%A7%E7%A7%91%E7%A0%94%E6%89%80%E8%A2%AB%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E7%82%B8%E6%88%90%E5%BA%9F%E5%A2%9F%23&t=31&band_rank=29&Refer=top) `183.0K 🔥` 
 
-1. [周继红受聘为国家跳水队总教练](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BB%A7%E7%BA%A2%E5%8F%97%E8%81%98%E4%B8%BA%E5%9B%BD%E5%AE%B6%E8%B7%B3%E6%B0%B4%E9%98%9F%E6%80%BB%E6%95%99%E7%BB%83%23&t=31&band_rank=30&Refer=top) `220.9K 🔥` 
+1. [徐艺洋和妈妈共用一张脸](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%92%8C%E5%A6%88%E5%A6%88%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23&t=31&band_rank=30&Refer=top) `177.3K 🔥` 
 
-1. [周柯宇吻戏好用力](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9F%AF%E5%AE%87%E5%90%BB%E6%88%8F%E5%A5%BD%E7%94%A8%E5%8A%9B&t=31&band_rank=31&Refer=top) `210.3K 🔥` 
+1. [淘宝闪购](https://s.weibo.com/weibo?q=%E6%B7%98%E5%AE%9D%E9%97%AA%E8%B4%AD&t=31&band_rank=31&Refer=top) `176.3K 🔥` 
 
-1. [赵一鸣零食店遭哄抢已移交公安处理](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E9%B8%A3%E9%9B%B6%E9%A3%9F%E5%BA%97%E9%81%AD%E5%93%84%E6%8A%A2%E5%B7%B2%E7%A7%BB%E4%BA%A4%E5%85%AC%E5%AE%89%E5%A4%84%E7%90%86%23&t=31&band_rank=32&Refer=top) `209.0K 🔥` 
+1. [周柯宇吻戏好用力](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9F%AF%E5%AE%87%E5%90%BB%E6%88%8F%E5%A5%BD%E7%94%A8%E5%8A%9B&t=31&band_rank=32&Refer=top) `173.1K 🔥` 
 
-1. [董子健终于加入邓超孙俪这个家了](https://s.weibo.com/weibo?q=%E8%91%A3%E5%AD%90%E5%81%A5%E7%BB%88%E4%BA%8E%E5%8A%A0%E5%85%A5%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E8%BF%99%E4%B8%AA%E5%AE%B6%E4%BA%86&t=31&band_rank=33&Refer=top) `203.3K 🔥` 
+1. [付航第一部男主剧演保安](https://s.weibo.com/weibo?q=%E4%BB%98%E8%88%AA%E7%AC%AC%E4%B8%80%E9%83%A8%E7%94%B7%E4%B8%BB%E5%89%A7%E6%BC%94%E4%BF%9D%E5%AE%89&t=31&band_rank=33&Refer=top) `167.6K 🔥` 
 
-1. [贷款40余万开蛋糕店7个月遇洪水倒闭](https://s.weibo.com/weibo?q=%23%E8%B4%B7%E6%AC%BE40%E4%BD%99%E4%B8%87%E5%BC%80%E8%9B%8B%E7%B3%95%E5%BA%977%E4%B8%AA%E6%9C%88%E9%81%87%E6%B4%AA%E6%B0%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=34&Refer=top) `199.5K 🔥` 
+1. [李栋旭皱纹全长在眼皮上了](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A0%8B%E6%97%AD%E7%9A%B1%E7%BA%B9%E5%85%A8%E9%95%BF%E5%9C%A8%E7%9C%BC%E7%9A%AE%E4%B8%8A%E4%BA%86&t=31&band_rank=34&Refer=top) `154.2K 🔥` 
 
-1. [中方坚决反对以航行自由为名挑衅](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E4%BB%A5%E8%88%AA%E8%A1%8C%E8%87%AA%E7%94%B1%E4%B8%BA%E5%90%8D%E6%8C%91%E8%A1%85%23&t=31&band_rank=35&Refer=top) `193.2K 🔥` 
+1. [仅退款引发商家极端要求](https://s.weibo.com/weibo?q=%23%E4%BB%85%E9%80%80%E6%AC%BE%E5%BC%95%E5%8F%91%E5%95%86%E5%AE%B6%E6%9E%81%E7%AB%AF%E8%A6%81%E6%B1%82%23&t=31&band_rank=35&Refer=top) `151.4K 🔥` 
 
-1. [现在就出发3](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%913&t=31&band_rank=36&Refer=top) `191.8K 🔥` 
+1. [00后极简出门不背包也太爽了](https://s.weibo.com/weibo?q=00%E5%90%8E%E6%9E%81%E7%AE%80%E5%87%BA%E9%97%A8%E4%B8%8D%E8%83%8C%E5%8C%85%E4%B9%9F%E5%A4%AA%E7%88%BD%E4%BA%86&t=31&band_rank=36&Refer=top) `148.1K 🔥` 
 
-1. [李栋旭皱纹全长在眼皮上了](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A0%8B%E6%97%AD%E7%9A%B1%E7%BA%B9%E5%85%A8%E9%95%BF%E5%9C%A8%E7%9C%BC%E7%9A%AE%E4%B8%8A%E4%BA%86&t=31&band_rank=37&Refer=top) `188.5K 🔥` 
+1. [吴泽林 别急我在编了](https://s.weibo.com/weibo?q=%E5%90%B4%E6%B3%BD%E6%9E%97%20%E5%88%AB%E6%80%A5%E6%88%91%E5%9C%A8%E7%BC%96%E4%BA%86&t=31&band_rank=37&Refer=top) `147.0K 🔥` 
 
-1. [小孩高铁哭闹不止女生呵斥后瞬间静音](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E9%AB%98%E9%93%81%E5%93%AD%E9%97%B9%E4%B8%8D%E6%AD%A2%E5%A5%B3%E7%94%9F%E5%91%B5%E6%96%A5%E5%90%8E%E7%9E%AC%E9%97%B4%E9%9D%99%E9%9F%B3%23&t=31&band_rank=38&Refer=top) `170.3K 🔥` 
+1. [以色列总理称目标提前完成](https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%A7%B0%E7%9B%AE%E6%A0%87%E6%8F%90%E5%89%8D%E5%AE%8C%E6%88%90&t=31&band_rank=38&Refer=top) `142.9K 🔥` 
 
-1. [北语张爱玲教授系因意外离世](https://s.weibo.com/weibo?q=%23%E5%8C%97%E8%AF%AD%E5%BC%A0%E7%88%B1%E7%8E%B2%E6%95%99%E6%8E%88%E7%B3%BB%E5%9B%A0%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96%23&t=31&band_rank=39&Refer=top) `168.4K 🔥` 
+1. [建议成人吃荔枝每日不超过10颗](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%88%90%E4%BA%BA%E5%90%83%E8%8D%94%E6%9E%9D%E6%AF%8F%E6%97%A5%E4%B8%8D%E8%B6%85%E8%BF%8710%E9%A2%97%23&t=31&band_rank=39&Refer=top) `141.3K 🔥` 
 
-1. [网信办专项整治AI技术滥用](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%B8%93%E9%A1%B9%E6%95%B4%E6%B2%BBAI%E6%8A%80%E6%9C%AF%E6%BB%A5%E7%94%A8%23&t=31&band_rank=40&Refer=top) `166.8K 🔥` 
+1. [小孩高铁哭闹不止女生呵斥后瞬间静音](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E9%AB%98%E9%93%81%E5%93%AD%E9%97%B9%E4%B8%8D%E6%AD%A2%E5%A5%B3%E7%94%9F%E5%91%B5%E6%96%A5%E5%90%8E%E7%9E%AC%E9%97%B4%E9%9D%99%E9%9F%B3%23&t=31&band_rank=40&Refer=top) `134.3K 🔥` 
 
-1. [歌手2025首次开启双曲袭榜](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2025%E9%A6%96%E6%AC%A1%E5%BC%80%E5%90%AF%E5%8F%8C%E6%9B%B2%E8%A2%AD%E6%A6%9C%23&t=31&band_rank=41&Refer=top) `166.5K 🔥` 
+1. [周继红受聘为国家跳水队总教练](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BB%A7%E7%BA%A2%E5%8F%97%E8%81%98%E4%B8%BA%E5%9B%BD%E5%AE%B6%E8%B7%B3%E6%B0%B4%E9%98%9F%E6%80%BB%E6%95%99%E7%BB%83%23&t=31&band_rank=41&Refer=top) `130.0K 🔥` 
 
-1. [京东买药免单](https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF%E5%85%8D%E5%8D%95&t=31&band_rank=42&Refer=top) `155.3K 🔥` 
+1. [歌手2025首次开启双曲袭榜](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2025%E9%A6%96%E6%AC%A1%E5%BC%80%E5%90%AF%E5%8F%8C%E6%9B%B2%E8%A2%AD%E6%A6%9C%23&t=31&band_rank=42&Refer=top) `129.9K 🔥` 
 
-1. [仅退款引发商家极端要求](https://s.weibo.com/weibo?q=%23%E4%BB%85%E9%80%80%E6%AC%BE%E5%BC%95%E5%8F%91%E5%95%86%E5%AE%B6%E6%9E%81%E7%AB%AF%E8%A6%81%E6%B1%82%23&t=31&band_rank=43&Refer=top) `155.0K 🔥` 
+1. [战胜单依纯的潘虹被淘汰了](https://s.weibo.com/weibo?q=%E6%88%98%E8%83%9C%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%9A%84%E6%BD%98%E8%99%B9%E8%A2%AB%E6%B7%98%E6%B1%B0%E4%BA%86&t=31&band_rank=43&Refer=top) `127.9K 🔥` 
 
-1. [李光洁说不想和蒋欣演两口子了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%89%E6%B4%81%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%92%8C%E8%92%8B%E6%AC%A3%E6%BC%94%E4%B8%A4%E5%8F%A3%E5%AD%90%E4%BA%86%23&t=31&band_rank=44&Refer=top) `154.0K 🔥` 
+1. [贷款40余万开蛋糕店7个月遇洪水倒闭](https://s.weibo.com/weibo?q=%23%E8%B4%B7%E6%AC%BE40%E4%BD%99%E4%B8%87%E5%BC%80%E8%9B%8B%E7%B3%95%E5%BA%977%E4%B8%AA%E6%9C%88%E9%81%87%E6%B4%AA%E6%B0%B4%E5%80%92%E9%97%AD%23&t=31&band_rank=44&Refer=top) `127.8K 🔥` 
 
-1. [以色列总理称目标提前完成](https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%A7%B0%E7%9B%AE%E6%A0%87%E6%8F%90%E5%89%8D%E5%AE%8C%E6%88%90&t=31&band_rank=45&Refer=top) `152.8K 🔥` 
+1. [现在就出发3原班人马](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%913%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC&t=31&band_rank=45&Refer=top) `127.2K 🔥` 
 
-1. [骆歆cos薇恩](https://s.weibo.com/weibo?q=%23%E9%AA%86%E6%AD%86cos%E8%96%87%E6%81%A9%23&t=31&band_rank=46&Refer=top) `139.2K 🔥` 
+1. [任嘉伦大佬气质与温柔爹感并存](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6%E5%A4%A7%E4%BD%AC%E6%B0%94%E8%B4%A8%E4%B8%8E%E6%B8%A9%E6%9F%94%E7%88%B9%E6%84%9F%E5%B9%B6%E5%AD%98&t=31&band_rank=46&Refer=top) `124.9K 🔥` 
 
-1. [陈妍希周柯宇整的我不好意思了](https://s.weibo.com/weibo?q=%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%A8%E6%9F%AF%E5%AE%87%E6%95%B4%E7%9A%84%E6%88%91%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%E4%BA%86&t=31&band_rank=47&Refer=top) `138.5K 🔥` 
+1. [邵雨轩晒与小花聊天记录](https://s.weibo.com/weibo?q=%23%E9%82%B5%E9%9B%A8%E8%BD%A9%E6%99%92%E4%B8%8E%E5%B0%8F%E8%8A%B1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=47&Refer=top) `124.9K 🔥` 
 
-1. [北京一男子遭仅见一面亲妹抢房产](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E7%94%B7%E5%AD%90%E9%81%AD%E4%BB%85%E8%A7%81%E4%B8%80%E9%9D%A2%E4%BA%B2%E5%A6%B9%E6%8A%A2%E6%88%BF%E4%BA%A7%23&t=31&band_rank=48&Refer=top) `138.2K 🔥` 
+1. [婚检查出重大疾病医院仅告知本人](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%A3%80%E6%9F%A5%E5%87%BA%E9%87%8D%E5%A4%A7%E7%96%BE%E7%97%85%E5%8C%BB%E9%99%A2%E4%BB%85%E5%91%8A%E7%9F%A5%E6%9C%AC%E4%BA%BA%23&t=31&band_rank=48&Refer=top) `124.7K 🔥` 
 
-1. [现在就出发3原班人马](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%913%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC&t=31&band_rank=49&Refer=top) `135.2K 🔥` 
+1. [京东买药免单](https://s.weibo.com/weibo?q=%E4%BA%AC%E4%B8%9C%E4%B9%B0%E8%8D%AF%E5%85%8D%E5%8D%95&t=31&band_rank=49&Refer=top) `121.6K 🔥` 
 
-1. [建议成人吃荔枝每日不超过10颗](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%88%90%E4%BA%BA%E5%90%83%E8%8D%94%E6%9E%9D%E6%AF%8F%E6%97%A5%E4%B8%8D%E8%B6%85%E8%BF%8710%E9%A2%97%23&t=31&band_rank=50&Refer=top) `130.8K 🔥` 
+1. [网大一姐和短剧一哥首次合作](https://s.weibo.com/weibo?q=%E7%BD%91%E5%A4%A7%E4%B8%80%E5%A7%90%E5%92%8C%E7%9F%AD%E5%89%A7%E4%B8%80%E5%93%A5%E9%A6%96%E6%AC%A1%E5%90%88%E4%BD%9C&t=31&band_rank=50&Refer=top) `120.2K 🔥` 
 
