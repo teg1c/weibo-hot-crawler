@@ -5,104 +5,104 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2026-02-14 03:08:27 
-1. [情人节](https://s.weibo.com/weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82&t=31&band_rank=1&Refer=top) `164.6K 🔥` 
+## 微博今日热榜 更新于 2026-02-14 03:52:14 
+1. [情人节](https://s.weibo.com/weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82&t=31&band_rank=1&Refer=top) `110.7K 🔥` 
 
-1. [豆包红包](https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%BA%A2%E5%8C%85&t=31&band_rank=2&Refer=top) `99.9K 🔥` 
+1. [豆包红包](https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%BA%A2%E5%8C%85&t=31&band_rank=2&Refer=top) `60.9K 🔥` 
 
-1. [回家路上随手拍](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%AE%B6%E8%B7%AF%E4%B8%8A%E9%9A%8F%E6%89%8B%E6%8B%8D%23&t=31&band_rank=3&Refer=top) `81.5K 🔥` 
+1. [回家路上随手拍](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%AE%B6%E8%B7%AF%E4%B8%8A%E9%9A%8F%E6%89%8B%E6%8B%8D%23&t=31&band_rank=3&Refer=top) `52.2K 🔥` 
 
-1. [乌运动员因头盔被取消冬奥资格](https://s.weibo.com/weibo?q=%E4%B9%8C%E8%BF%90%E5%8A%A8%E5%91%98%E5%9B%A0%E5%A4%B4%E7%9B%94%E8%A2%AB%E5%8F%96%E6%B6%88%E5%86%AC%E5%A5%A5%E8%B5%84%E6%A0%BC&t=31&band_rank=4&Refer=top) `78.5K 🔥` 
+1. [乌运动员因头盔被取消冬奥资格](https://s.weibo.com/weibo?q=%E4%B9%8C%E8%BF%90%E5%8A%A8%E5%91%98%E5%9B%A0%E5%A4%B4%E7%9B%94%E8%A2%AB%E5%8F%96%E6%B6%88%E5%86%AC%E5%A5%A5%E8%B5%84%E6%A0%BC&t=31&band_rank=4&Refer=top) `51.4K 🔥` 
 
-1. [女子幽门螺杆菌阳性3年后查出胃癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A73%E5%B9%B4%E5%90%8E%E6%9F%A5%E5%87%BA%E8%83%83%E7%99%8C%23&t=31&band_rank=5&Refer=top) `49.4K 🔥` 
+1. [女子幽门螺杆菌阳性3年后查出胃癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E9%98%B3%E6%80%A73%E5%B9%B4%E5%90%8E%E6%9F%A5%E5%87%BA%E8%83%83%E7%99%8C%23&t=31&band_rank=5&Refer=top) `40.6K 🔥` 
 
-1. [黄冈通报产检正常娃出生却先天畸形](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%86%88%E9%80%9A%E6%8A%A5%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%A8%83%E5%87%BA%E7%94%9F%E5%8D%B4%E5%85%88%E5%A4%A9%E7%95%B8%E5%BD%A2%23&t=31&band_rank=6&Refer=top) `42.2K 🔥` 
+1. [黄冈通报产检正常娃出生却先天畸形](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%86%88%E9%80%9A%E6%8A%A5%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%A8%83%E5%87%BA%E7%94%9F%E5%8D%B4%E5%85%88%E5%A4%A9%E7%95%B8%E5%BD%A2%23&t=31&band_rank=6&Refer=top) `38.7K 🔥` 
 
-1. [微博之夜 二刷](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E4%BA%8C%E5%88%B7&t=31&band_rank=7&Refer=top) `38.2K 🔥` 
+1. [我家那小子首发阵容官宣](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E9%82%A3%E5%B0%8F%E5%AD%90%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=7&Refer=top) `26.6K 🔥` 
 
-1. [孟子义情人节三部剧物料](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%83%85%E4%BA%BA%E8%8A%82%E4%B8%89%E9%83%A8%E5%89%A7%E7%89%A9%E6%96%99&t=31&band_rank=8&Refer=top) `36.9K 🔥` 
+1. [孟子义情人节三部剧物料](https://s.weibo.com/weibo?q=%E5%AD%9F%E5%AD%90%E4%B9%89%E6%83%85%E4%BA%BA%E8%8A%82%E4%B8%89%E9%83%A8%E5%89%A7%E7%89%A9%E6%96%99&t=31&band_rank=8&Refer=top) `26.5K 🔥` 
 
-1. [我家那小子首发阵容官宣](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E9%82%A3%E5%B0%8F%E5%AD%90%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=9&Refer=top) `34.1K 🔥` 
+1. [微博之夜 二刷](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E4%BA%8C%E5%88%B7&t=31&band_rank=9&Refer=top) `26.0K 🔥` 
 
-1. [王者荣耀农家乐村晚](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%9C%E5%AE%B6%E4%B9%90%E6%9D%91%E6%99%9A&t=31&band_rank=10&Refer=top) `30.9K 🔥` 
+1. [王者荣耀农家乐村晚](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%86%9C%E5%AE%B6%E4%B9%90%E6%9D%91%E6%99%9A&t=31&band_rank=10&Refer=top) `25.3K 🔥` 
 
-1. [瑶一瑶小肉包近30天掉粉6万](https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E5%B0%8F%E8%82%89%E5%8C%85%E8%BF%9130%E5%A4%A9%E6%8E%89%E7%B2%896%E4%B8%87%23&t=31&band_rank=11&Refer=top) `30.9K 🔥` 
+1. [瑶一瑶小肉包近30天掉粉6万](https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E5%B0%8F%E8%82%89%E5%8C%85%E8%BF%9130%E5%A4%A9%E6%8E%89%E7%B2%896%E4%B8%87%23&t=31&band_rank=11&Refer=top) `24.9K 🔥` 
 
-1. [新娘称婚宴4000一桌被亲友说最难吃](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E7%A7%B0%E5%A9%9A%E5%AE%B44000%E4%B8%80%E6%A1%8C%E8%A2%AB%E4%BA%B2%E5%8F%8B%E8%AF%B4%E6%9C%80%E9%9A%BE%E5%90%83%23&t=31&band_rank=12&Refer=top) `30.9K 🔥` 
+1. [新娘称婚宴4000一桌被亲友说最难吃](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E7%A7%B0%E5%A9%9A%E5%AE%B44000%E4%B8%80%E6%A1%8C%E8%A2%AB%E4%BA%B2%E5%8F%8B%E8%AF%B4%E6%9C%80%E9%9A%BE%E5%90%83%23&t=31&band_rank=12&Refer=top) `24.8K 🔥` 
 
-1. [民警厕所打人受害人被打致小便失禁](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8E%95%E6%89%80%E6%89%93%E4%BA%BA%E5%8F%97%E5%AE%B3%E4%BA%BA%E8%A2%AB%E6%89%93%E8%87%B4%E5%B0%8F%E4%BE%BF%E5%A4%B1%E7%A6%81%23&t=31&band_rank=13&Refer=top) `30.8K 🔥` 
+1. [民警厕所打人受害人被打致小便失禁](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%8E%95%E6%89%80%E6%89%93%E4%BA%BA%E5%8F%97%E5%AE%B3%E4%BA%BA%E8%A2%AB%E6%89%93%E8%87%B4%E5%B0%8F%E4%BE%BF%E5%A4%B1%E7%A6%81%23&t=31&band_rank=13&Refer=top) `24.5K 🔥` 
 
-1. [瑶一瑶藏剪刀被安检发现](https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E8%97%8F%E5%89%AA%E5%88%80%E8%A2%AB%E5%AE%89%E6%A3%80%E5%8F%91%E7%8E%B0%23&t=31&band_rank=14&Refer=top) `30.8K 🔥` 
+1. [瑶一瑶藏剪刀被安检发现](https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E8%97%8F%E5%89%AA%E5%88%80%E8%A2%AB%E5%AE%89%E6%A3%80%E5%8F%91%E7%8E%B0%23&t=31&band_rank=14&Refer=top) `24.1K 🔥` 
 
-1. [男子卖前女友送的银镯子竟是银包金](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%96%E5%89%8D%E5%A5%B3%E5%8F%8B%E9%80%81%E7%9A%84%E9%93%B6%E9%95%AF%E5%AD%90%E7%AB%9F%E6%98%AF%E9%93%B6%E5%8C%85%E9%87%91%23&t=31&band_rank=15&Refer=top) `30.7K 🔥` 
+1. [男子卖前女友送的银镯子竟是银包金](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8D%96%E5%89%8D%E5%A5%B3%E5%8F%8B%E9%80%81%E7%9A%84%E9%93%B6%E9%95%AF%E5%AD%90%E7%AB%9F%E6%98%AF%E9%93%B6%E5%8C%85%E9%87%91%23&t=31&band_rank=15&Refer=top) `23.8K 🔥` 
 
-1. [王橹杰彝族血统发力了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%BD%9D%E6%97%8F%E8%A1%80%E7%BB%9F%E5%8F%91%E5%8A%9B%E4%BA%86%23&t=31&band_rank=16&Refer=top) `30.7K 🔥` 
+1. [主动投案的王鑫是易烊千玺等人老师](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%E7%9A%84%E7%8E%8B%E9%91%AB%E6%98%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%AD%89%E4%BA%BA%E8%80%81%E5%B8%88%23&t=31&band_rank=16&Refer=top) `23.3K 🔥` 
 
-1. [谁给迪丽热巴买的手机壳](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=17&Refer=top) `30.6K 🔥` 
+1. [王橹杰彝族血统发力了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%BD%9D%E6%97%8F%E8%A1%80%E7%BB%9F%E5%8F%91%E5%8A%9B%E4%BA%86%23&t=31&band_rank=17&Refer=top) `22.9K 🔥` 
 
-1. [主动投案的王鑫是易烊千玺等人老师](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%E7%9A%84%E7%8E%8B%E9%91%AB%E6%98%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%AD%89%E4%BA%BA%E8%80%81%E5%B8%88%23&t=31&band_rank=18&Refer=top) `30.6K 🔥` 
+1. [谁给迪丽热巴买的手机壳](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=18&Refer=top) `22.6K 🔥` 
 
-1. [王星越白鹿居家风合照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%99%BD%E9%B9%BF%E5%B1%85%E5%AE%B6%E9%A3%8E%E5%90%88%E7%85%A7%23&t=31&band_rank=19&Refer=top) `27.0K 🔥` 
+1. [王星越白鹿居家风合照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%99%BD%E9%B9%BF%E5%B1%85%E5%AE%B6%E9%A3%8E%E5%90%88%E7%85%A7%23&t=31&band_rank=19&Refer=top) `22.5K 🔥` 
 
-1. [张函瑞单人cha纪录](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E5%8D%95%E4%BA%BAcha%E7%BA%AA%E5%BD%95%23&t=31&band_rank=20&Refer=top) `25.2K 🔥` 
+1. [冰壶](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A3%B6&t=31&band_rank=20&Refer=top) `22.0K 🔥` 
 
-1. [白敬亭 宋轶](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E5%AE%8B%E8%BD%B6&t=31&band_rank=21&Refer=top) `25.2K 🔥` 
+1. [白敬亭 宋轶](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20%E5%AE%8B%E8%BD%B6&t=31&band_rank=21&Refer=top) `21.5K 🔥` 
 
-1. [骨折女生乘卧铺从乌鲁木齐躺回江西](https://s.weibo.com/weibo?q=%23%E9%AA%A8%E6%8A%98%E5%A5%B3%E7%94%9F%E4%B9%98%E5%8D%A7%E9%93%BA%E4%BB%8E%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E8%BA%BA%E5%9B%9E%E6%B1%9F%E8%A5%BF%23&t=31&band_rank=22&Refer=top) `25.2K 🔥` 
+1. [骨折女生乘卧铺从乌鲁木齐躺回江西](https://s.weibo.com/weibo?q=%23%E9%AA%A8%E6%8A%98%E5%A5%B3%E7%94%9F%E4%B9%98%E5%8D%A7%E9%93%BA%E4%BB%8E%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E8%BA%BA%E5%9B%9E%E6%B1%9F%E8%A5%BF%23&t=31&band_rank=22&Refer=top) `21.2K 🔥` 
 
-1. [原著粉最满意的阵容出现了](https://s.weibo.com/weibo?q=%E5%8E%9F%E8%91%97%E7%B2%89%E6%9C%80%E6%BB%A1%E6%84%8F%E7%9A%84%E9%98%B5%E5%AE%B9%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=23&Refer=top) `25.1K 🔥` 
+1. [原著粉最满意的阵容出现了](https://s.weibo.com/weibo?q=%E5%8E%9F%E8%91%97%E7%B2%89%E6%9C%80%E6%BB%A1%E6%84%8F%E7%9A%84%E9%98%B5%E5%AE%B9%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=23&Refer=top) `21.1K 🔥` 
 
-1. [冰壶](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A3%B6&t=31&band_rank=24&Refer=top) `25.1K 🔥` 
+1. [市民吐槽百果园一根甘蔗卖87元](https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E5%90%90%E6%A7%BD%E7%99%BE%E6%9E%9C%E5%9B%AD%E4%B8%80%E6%A0%B9%E7%94%98%E8%94%97%E5%8D%9687%E5%85%83%23&t=31&band_rank=24&Refer=top) `20.9K 🔥` 
 
-1. [王俊凯周杰伦到底还有多少合照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%88%B0%E5%BA%95%E8%BF%98%E6%9C%89%E5%A4%9A%E5%B0%91%E5%90%88%E7%85%A7%23&t=31&band_rank=25&Refer=top) `24.5K 🔥` 
+1. [王俊凯周杰伦到底还有多少合照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%88%B0%E5%BA%95%E8%BF%98%E6%9C%89%E5%A4%9A%E5%B0%91%E5%90%88%E7%85%A7%23&t=31&band_rank=25&Refer=top) `20.3K 🔥` 
 
-1. [宋轶换微博背景](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%8D%A2%E5%BE%AE%E5%8D%9A%E8%83%8C%E6%99%AF%23&t=31&band_rank=26&Refer=top) `24.4K 🔥` 
+1. [宋轶换微博背景](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%8D%A2%E5%BE%AE%E5%8D%9A%E8%83%8C%E6%99%AF%23&t=31&band_rank=26&Refer=top) `20.2K 🔥` 
 
-1. [Angelababy兔耳朵撕拉片](https://s.weibo.com/weibo?q=%23Angelababy%E5%85%94%E8%80%B3%E6%9C%B5%E6%92%95%E6%8B%89%E7%89%87%23&t=31&band_rank=27&Refer=top) `23.5K 🔥` 
+1. [Angelababy兔耳朵撕拉片](https://s.weibo.com/weibo?q=%23Angelababy%E5%85%94%E8%80%B3%E6%9C%B5%E6%92%95%E6%8B%89%E7%89%87%23&t=31&band_rank=27&Refer=top) `20.1K 🔥` 
 
-1. [市民吐槽百果园一根甘蔗卖87元](https://s.weibo.com/weibo?q=%23%E5%B8%82%E6%B0%91%E5%90%90%E6%A7%BD%E7%99%BE%E6%9E%9C%E5%9B%AD%E4%B8%80%E6%A0%B9%E7%94%98%E8%94%97%E5%8D%9687%E5%85%83%23&t=31&band_rank=28&Refer=top) `22.6K 🔥` 
+1. [21岁孙子97岁奶奶都觉得对方很好带](https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%AD%99%E5%AD%9097%E5%B2%81%E5%A5%B6%E5%A5%B6%E9%83%BD%E8%A7%89%E5%BE%97%E5%AF%B9%E6%96%B9%E5%BE%88%E5%A5%BD%E5%B8%A6%23&t=31&band_rank=28&Refer=top) `18.9K 🔥` 
 
-1. [地图语音包废话文学](https://s.weibo.com/weibo?q=%E5%9C%B0%E5%9B%BE%E8%AF%AD%E9%9F%B3%E5%8C%85%E5%BA%9F%E8%AF%9D%E6%96%87%E5%AD%A6&t=31&band_rank=29&Refer=top) `22.4K 🔥` 
+1. [湖北精神病医院有关问题调查结果](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E7%B2%BE%E7%A5%9E%E7%97%85%E5%8C%BB%E9%99%A2%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=29&Refer=top) `17.8K 🔥` 
 
-1. [宜昌一精神病院患者自杀情况属实](https://s.weibo.com/weibo?q=%23%E5%AE%9C%E6%98%8C%E4%B8%80%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E6%82%A3%E8%80%85%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23&t=31&band_rank=30&Refer=top) `22.3K 🔥` 
+1. [宜昌一精神病院患者自杀情况属实](https://s.weibo.com/weibo?q=%23%E5%AE%9C%E6%98%8C%E4%B8%80%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E6%82%A3%E8%80%85%E8%87%AA%E6%9D%80%E6%83%85%E5%86%B5%E5%B1%9E%E5%AE%9E%23&t=31&band_rank=30&Refer=top) `17.7K 🔥` 
 
-1. [薛之谦湖泊唱片版](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B9%96%E6%B3%8A%E5%94%B1%E7%89%87%E7%89%88&t=31&band_rank=31&Refer=top) `22.2K 🔥` 
+1. [yushi六代男豆首支百万饭拍](https://s.weibo.com/weibo?q=%23yushi%E5%85%AD%E4%BB%A3%E7%94%B7%E8%B1%86%E9%A6%96%E6%94%AF%E7%99%BE%E4%B8%87%E9%A5%AD%E6%8B%8D%23&t=31&band_rank=31&Refer=top) `17.6K 🔥` 
 
-1. [最强大脑](https://s.weibo.com/weibo?q=%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=32&Refer=top) `21.9K 🔥` 
+1. [三亚通报8499元订民宿被临时毁约](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E9%80%9A%E6%8A%A58499%E5%85%83%E8%AE%A2%E6%B0%91%E5%AE%BF%E8%A2%AB%E4%B8%B4%E6%97%B6%E6%AF%81%E7%BA%A6%23&t=31&band_rank=32&Refer=top) `17.2K 🔥` 
 
-1. [三亚通报8499元订民宿被临时毁约](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E9%80%9A%E6%8A%A58499%E5%85%83%E8%AE%A2%E6%B0%91%E5%AE%BF%E8%A2%AB%E4%B8%B4%E6%97%B6%E6%AF%81%E7%BA%A6%23&t=31&band_rank=33&Refer=top) `21.3K 🔥` 
+1. [王者荣耀福气码](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A6%8F%E6%B0%94%E7%A0%81&t=31&band_rank=33&Refer=top) `17.1K 🔥` 
 
-1. [21岁孙子97岁奶奶都觉得对方很好带](https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%AD%99%E5%AD%9097%E5%B2%81%E5%A5%B6%E5%A5%B6%E9%83%BD%E8%A7%89%E5%BE%97%E5%AF%B9%E6%96%B9%E5%BE%88%E5%A5%BD%E5%B8%A6%23&t=31&band_rank=34&Refer=top) `21.2K 🔥` 
+1. [唐宫奇案](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88&t=31&band_rank=34&Refer=top) `16.5K 🔥` 
 
-1. [生命树](https://s.weibo.com/weibo?q=%E7%94%9F%E5%91%BD%E6%A0%91&t=31&band_rank=35&Refer=top) `20.0K 🔥` 
+1. [最强大脑](https://s.weibo.com/weibo?q=%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%91&t=31&band_rank=35&Refer=top) `16.5K 🔥` 
 
-1. [唐宫奇案](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88&t=31&band_rank=36&Refer=top) `19.9K 🔥` 
+1. [全球最大航母驶向中东](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=36&Refer=top) `16.2K 🔥` 
 
-1. [白幼薇的MVP结算画面](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B9%BC%E8%96%87%E7%9A%84MVP%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2%23&t=31&band_rank=37&Refer=top) `19.0K 🔥` 
+1. [生命树](https://s.weibo.com/weibo?q=%E7%94%9F%E5%91%BD%E6%A0%91&t=31&band_rank=37&Refer=top) `15.5K 🔥` 
 
-1. [湖北精神病医院有关问题调查结果](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E7%B2%BE%E7%A5%9E%E7%97%85%E5%8C%BB%E9%99%A2%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%23&t=31&band_rank=38&Refer=top) `18.8K 🔥` 
+1. [张函瑞单人cha纪录](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E5%8D%95%E4%BA%BAcha%E7%BA%AA%E5%BD%95%23&t=31&band_rank=38&Refer=top) `15.0K 🔥` 
 
-1. [常州汽水音乐节阵容官宣](https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90%E8%8A%82%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=39&Refer=top) `18.1K 🔥` 
+1. [AG对战JDG](https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98JDG%23&t=31&band_rank=39&Refer=top) `15.0K 🔥` 
 
-1. [王者荣耀福气码](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%A6%8F%E6%B0%94%E7%A0%81&t=31&band_rank=40&Refer=top) `18.0K 🔥` 
+1. [官方回应湛江发现儒艮尸体](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B9%9B%E6%B1%9F%E5%8F%91%E7%8E%B0%E5%84%92%E8%89%AE%E5%B0%B8%E4%BD%93%23&t=31&band_rank=40&Refer=top) `14.9K 🔥` 
 
-1. [泰山 禁石令](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%B1%B1%20%E7%A6%81%E7%9F%B3%E4%BB%A4&t=31&band_rank=41&Refer=top) `17.9K 🔥` 
+1. [成何体统](https://s.weibo.com/weibo?q=%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F&t=31&band_rank=41&Refer=top) `14.9K 🔥` 
 
-1. [全球最大航母驶向中东](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E8%88%AA%E6%AF%8D%E9%A9%B6%E5%90%91%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=42&Refer=top) `17.8K 🔥` 
+1. [颜人中演唱会延迟1小时送1场](https://s.weibo.com/weibo?q=%E9%A2%9C%E4%BA%BA%E4%B8%AD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E8%BF%9F1%E5%B0%8F%E6%97%B6%E9%80%811%E5%9C%BA&t=31&band_rank=42&Refer=top) `14.6K 🔥` 
 
-1. [官方回应湛江发现儒艮尸体](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B9%9B%E6%B1%9F%E5%8F%91%E7%8E%B0%E5%84%92%E8%89%AE%E5%B0%B8%E4%BD%93%23&t=31&band_rank=43&Refer=top) `17.8K 🔥` 
+1. [有歌](https://s.weibo.com/weibo?q=%E6%9C%89%E6%AD%8C&t=31&band_rank=43&Refer=top) `14.5K 🔥` 
 
-1. [有歌](https://s.weibo.com/weibo?q=%E6%9C%89%E6%AD%8C&t=31&band_rank=44&Refer=top) `17.8K 🔥` 
+1. [白幼薇的MVP结算画面](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B9%BC%E8%96%87%E7%9A%84MVP%E7%BB%93%E7%AE%97%E7%94%BB%E9%9D%A2%23&t=31&band_rank=44&Refer=top) `14.5K 🔥` 
 
-1. [懒懒自曝78斤](https://s.weibo.com/weibo?q=%23%E6%87%92%E6%87%92%E8%87%AA%E6%9B%9D78%E6%96%A4%23&t=31&band_rank=45&Refer=top) `17.8K 🔥` 
+1. [丞磊第20集6分47秒](https://s.weibo.com/weibo?q=%E4%B8%9E%E7%A3%8A%E7%AC%AC20%E9%9B%866%E5%88%8647%E7%A7%92&t=31&band_rank=45&Refer=top) `14.5K 🔥` 
 
-1. [李家诚告周秀娜诽谤及骚扰](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%B6%E8%AF%9A%E5%91%8A%E5%91%A8%E7%A7%80%E5%A8%9C%E8%AF%BD%E8%B0%A4%E5%8F%8A%E9%AA%9A%E6%89%B0%23&t=31&band_rank=46&Refer=top) `17.8K 🔥` 
+1. [常州汽水音乐节阵容官宣](https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90%E8%8A%82%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=46&Refer=top) `14.5K 🔥` 
 
-1. [AG对战JDG](https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98JDG%23&t=31&band_rank=47&Refer=top) `17.8K 🔥` 
+1. [懒懒自曝78斤](https://s.weibo.com/weibo?q=%23%E6%87%92%E6%87%92%E8%87%AA%E6%9B%9D78%E6%96%A4%23&t=31&band_rank=47&Refer=top) `14.5K 🔥` 
 
-1. [颜人中演唱会延迟1小时送1场](https://s.weibo.com/weibo?q=%E9%A2%9C%E4%BA%BA%E4%B8%AD%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E8%BF%9F1%E5%B0%8F%E6%97%B6%E9%80%811%E5%9C%BA&t=31&band_rank=48&Refer=top) `17.8K 🔥` 
+1. [薛之谦湖泊唱片版](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B9%96%E6%B3%8A%E5%94%B1%E7%89%87%E7%89%88&t=31&band_rank=48&Refer=top) `14.5K 🔥` 
 
-1. [成何体统](https://s.weibo.com/weibo?q=%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F&t=31&band_rank=49&Refer=top) `17.8K 🔥` 
+1. [泰山 禁石令](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%B1%B1%20%E7%A6%81%E7%9F%B3%E4%BB%A4&t=31&band_rank=49&Refer=top) `14.5K 🔥` 
 
-1. [王玉雯敖瑞鹏游戏直播](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%95%96%E7%91%9E%E9%B9%8F%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD&t=31&band_rank=50&Refer=top) `17.8K 🔥` 
+1. [李家诚告周秀娜诽谤及骚扰](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%B6%E8%AF%9A%E5%91%8A%E5%91%A8%E7%A7%80%E5%A8%9C%E8%AF%BD%E8%B0%A4%E5%8F%8A%E9%AA%9A%E6%89%B0%23&t=31&band_rank=50&Refer=top) `14.5K 🔥` 
 
