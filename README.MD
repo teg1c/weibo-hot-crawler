@@ -5,104 +5,104 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2026-02-18 07:59:22 
+## 微博今日热榜 更新于 2026-02-18 10:53:30 
 1. [B站春晚 夯](https://s.weibo.com/weibo?q=B%E7%AB%99%E6%98%A5%E6%99%9A%20%E5%A4%AF&t=31&band_rank=1&Refer=top) `1.1M 🔥` 
 
-1. [李琰教练庆祝中国队铜牌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%90%B0%E6%95%99%E7%BB%83%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%93%9C%E7%89%8C%23&t=31&band_rank=2&Refer=top) `761.1K 🔥` 
+1. [中国速滑男团0.09秒绝杀](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A20.09%E7%A7%92%E7%BB%9D%E6%9D%80%23&t=31&band_rank=2&Refer=top) `782.2K 🔥` 
 
-1. [2026新春走基层](https://s.weibo.com/weibo?q=%232026%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top) `604.7K 🔥` 
+1. [2026新春走基层](https://s.weibo.com/weibo?q=%232026%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top) `635.5K 🔥` 
 
-1. [宋小宝 小品翻车](https://s.weibo.com/weibo?q=%E5%AE%8B%E5%B0%8F%E5%AE%9D%20%E5%B0%8F%E5%93%81%E7%BF%BB%E8%BD%A6&t=31&band_rank=4&Refer=top) `448.2K 🔥` 
+1. [丞磊真的读了与妻书](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E7%9C%9F%E7%9A%84%E8%AF%BB%E4%BA%86%E4%B8%8E%E5%A6%BB%E4%B9%A6%23&t=31&band_rank=4&Refer=top) `428.1K 🔥` 
 
-1. [谷爱凌说痛失2块金牌说法太荒谬](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E7%97%9B%E5%A4%B12%E5%9D%97%E9%87%91%E7%89%8C%E8%AF%B4%E6%B3%95%E5%A4%AA%E8%8D%92%E8%B0%AC%23&t=31&band_rank=5&Refer=top) `171.1K 🔥` 
+1. [谷爱凌才是货真价实的夯爆了](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%89%8D%E6%98%AF%E8%B4%A7%E7%9C%9F%E4%BB%B7%E5%AE%9E%E7%9A%84%E5%A4%AF%E7%88%86%E4%BA%86%23&t=31&band_rank=5&Refer=top) `360.8K 🔥` 
 
-1. [沈腾坦言因春晚说错词十分自责](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%9D%A6%E8%A8%80%E5%9B%A0%E6%98%A5%E6%99%9A%E8%AF%B4%E9%94%99%E8%AF%8D%E5%8D%81%E5%88%86%E8%87%AA%E8%B4%A3%23&t=31&band_rank=6&Refer=top) `169.6K 🔥` 
+1. [大年初二不能做哪些事](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%E4%B8%8D%E8%83%BD%E5%81%9A%E5%93%AA%E4%BA%9B%E4%BA%8B%23&t=31&band_rank=6&Refer=top) `306.8K 🔥` 
 
-1. [全妈回应全红婵退役计划](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%A6%88%E5%9B%9E%E5%BA%94%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%80%E5%BD%B9%E8%AE%A1%E5%88%92%23&t=31&band_rank=7&Refer=top) `167.6K 🔥` 
+1. [谷爱凌说痛失2块金牌说法太荒谬](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E7%97%9B%E5%A4%B12%E5%9D%97%E9%87%91%E7%89%8C%E8%AF%B4%E6%B3%95%E5%A4%AA%E8%8D%92%E8%B0%AC%23&t=31&band_rank=7&Refer=top) `192.3K 🔥` 
 
-1. [B站语言类节目 赢麻了](https://s.weibo.com/weibo?q=B%E7%AB%99%E8%AF%AD%E8%A8%80%E7%B1%BB%E8%8A%82%E7%9B%AE%20%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=8&Refer=top) `123.5K 🔥` 
+1. [刘诗诗 美人落泪](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%BE%8E%E4%BA%BA%E8%90%BD%E6%B3%AA&t=31&band_rank=8&Refer=top) `190.9K 🔥` 
 
-1. [山东一村600多人集体磕头拜年](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E6%9D%91600%E5%A4%9A%E4%BA%BA%E9%9B%86%E4%BD%93%E7%A3%95%E5%A4%B4%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=9&Refer=top) `95.0K 🔥` 
+1. [李子柒在春晚后台手搓非遗饰品](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%9C%A8%E6%98%A5%E6%99%9A%E5%90%8E%E5%8F%B0%E6%89%8B%E6%90%93%E9%9D%9E%E9%81%97%E9%A5%B0%E5%93%81%23&t=31&band_rank=9&Refer=top) `173.1K 🔥` 
 
-1. [中国速滑男团铜牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%23&t=31&band_rank=10&Refer=top) `91.4K 🔥` 
+1. [大年初二不午睡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%E4%B8%8D%E5%8D%88%E7%9D%A1%23&t=31&band_rank=10&Refer=top) `157.4K 🔥` 
 
-1. [王菲化妆师改口问就是AI](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=11&Refer=top) `88.6K 🔥` 
+1. [高市早苗内阁集体辞职](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%85%E9%98%81%E9%9B%86%E4%BD%93%E8%BE%9E%E8%81%8C%23&t=31&band_rank=11&Refer=top) `147.2K 🔥` 
 
-1. [今年所有法定假日全与周末重合](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E6%89%80%E6%9C%89%E6%B3%95%E5%AE%9A%E5%81%87%E6%97%A5%E5%85%A8%E4%B8%8E%E5%91%A8%E6%9C%AB%E9%87%8D%E5%90%88&t=31&band_rank=12&Refer=top) `86.8K 🔥` 
+1. [刘三瞳回应抄袭](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%89%E7%9E%B3%E5%9B%9E%E5%BA%94%E6%8A%84%E8%A2%AD%23&t=31&band_rank=12&Refer=top) `138.9K 🔥` 
 
-1. [马頔发视频炫耀李纯登上央视春晚](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%AB%E8%80%80%E6%9D%8E%E7%BA%AF%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%23&t=31&band_rank=13&Refer=top) `84.1K 🔥` 
+1. [肖战这和演唱会现场有什么区别](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%99%E5%92%8C%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23&t=31&band_rank=13&Refer=top) `138.2K 🔥` 
 
-1. [肖战好漂亮](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%A5%BD%E6%BC%82%E4%BA%AE&t=31&band_rank=14&Refer=top) `80.9K 🔥` 
+1. [全妈回应全红婵退役计划](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%A6%88%E5%9B%9E%E5%BA%94%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%80%80%E5%BD%B9%E8%AE%A1%E5%88%92%23&t=31&band_rank=14&Refer=top) `129.8K 🔥` 
 
-1. [全国初二回娘家的女婿belike](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%88%9D%E4%BA%8C%E5%9B%9E%E5%A8%98%E5%AE%B6%E7%9A%84%E5%A5%B3%E5%A9%BFbelike%23&t=31&band_rank=15&Refer=top) `78.0K 🔥` 
+1. [B站语言类节目 赢麻了](https://s.weibo.com/weibo?q=B%E7%AB%99%E8%AF%AD%E8%A8%80%E7%B1%BB%E8%8A%82%E7%9B%AE%20%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=15&Refer=top) `127.9K 🔥` 
 
-1. [小酒窝做管乐的花童了](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%85%92%E7%AA%9D%E5%81%9A%E7%AE%A1%E4%B9%90%E7%9A%84%E8%8A%B1%E7%AB%A5%E4%BA%86&t=31&band_rank=16&Refer=top) `76.5K 🔥` 
+1. [王菲化妆师改口问就是AI](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8C%96%E5%A6%86%E5%B8%88%E6%94%B9%E5%8F%A3%E9%97%AE%E5%B0%B1%E6%98%AFAI%23&t=31&band_rank=16&Refer=top) `123.5K 🔥` 
 
-1. [冬奥会露内衣品牌女选手引来广告商](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%9C%B2%E5%86%85%E8%A1%A3%E5%93%81%E7%89%8C%E5%A5%B3%E9%80%89%E6%89%8B%E5%BC%95%E6%9D%A5%E5%B9%BF%E5%91%8A%E5%95%86%23&t=31&band_rank=17&Refer=top) `72.4K 🔥` 
+1. [回老家后根本没有穿衣焦虑](https://s.weibo.com/weibo?q=%E5%9B%9E%E8%80%81%E5%AE%B6%E5%90%8E%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E7%A9%BF%E8%A1%A3%E7%84%A6%E8%99%91&t=31&band_rank=17&Refer=top) `109.8K 🔥` 
 
-1. [三文鱼其实是海底大肥猪](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%96%87%E9%B1%BC%E5%85%B6%E5%AE%9E%E6%98%AF%E6%B5%B7%E5%BA%95%E5%A4%A7%E8%82%A5%E7%8C%AA%23&t=31&band_rank=18&Refer=top) `71.8K 🔥` 
+1. [蓝溪镇完结](https://s.weibo.com/weibo?q=%E8%93%9D%E6%BA%AA%E9%95%87%E5%AE%8C%E7%BB%93&t=31&band_rank=18&Refer=top) `98.6K 🔥` 
 
-1. [初二和初五的财神一样吗](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BA%8C%E5%92%8C%E5%88%9D%E4%BA%94%E7%9A%84%E8%B4%A2%E7%A5%9E%E4%B8%80%E6%A0%B7%E5%90%97%23&t=31&band_rank=19&Refer=top) `61.8K 🔥` 
+1. [有游客大年初一捡漏机票出游](https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%B8%B8%E5%AE%A2%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E6%8D%A1%E6%BC%8F%E6%9C%BA%E7%A5%A8%E5%87%BA%E6%B8%B8%23&t=31&band_rank=19&Refer=top) `96.1K 🔥` 
 
-1. [中国游客被困俄罗斯极光村超40小时](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%9B%B0%E4%BF%84%E7%BD%97%E6%96%AF%E6%9E%81%E5%85%89%E6%9D%91%E8%B6%8540%E5%B0%8F%E6%97%B6%23&t=31&band_rank=20&Refer=top) `61.7K 🔥` 
+1. [全家忘带钥匙小猫用5分钟开门](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%AE%B6%E5%BF%98%E5%B8%A6%E9%92%A5%E5%8C%99%E5%B0%8F%E7%8C%AB%E7%94%A85%E5%88%86%E9%92%9F%E5%BC%80%E9%97%A8%23&t=31&band_rank=20&Refer=top) `96.0K 🔥` 
 
-1. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top) `61.5K 🔥` 
+1. [建议麻将桌全面禁止AI眼镜](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%BA%BB%E5%B0%86%E6%A1%8C%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2AI%E7%9C%BC%E9%95%9C%23&t=31&band_rank=21&Refer=top) `95.9K 🔥` 
 
-1. [都穿亮片裙不告诉王玉雯](https://s.weibo.com/weibo?q=%E9%83%BD%E7%A9%BF%E4%BA%AE%E7%89%87%E8%A3%99%E4%B8%8D%E5%91%8A%E8%AF%89%E7%8E%8B%E7%8E%89%E9%9B%AF&t=31&band_rank=22&Refer=top) `61.3K 🔥` 
+1. [春晚总导演说贺花神非常非常难](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%B4%BA%E8%8A%B1%E7%A5%9E%E9%9D%9E%E5%B8%B8%E9%9D%9E%E5%B8%B8%E9%9A%BE%23&t=31&band_rank=22&Refer=top) `95.7K 🔥` 
 
-1. [李子柒在春晚后台手搓非遗饰品](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E6%9F%92%E5%9C%A8%E6%98%A5%E6%99%9A%E5%90%8E%E5%8F%B0%E6%89%8B%E6%90%93%E9%9D%9E%E9%81%97%E9%A5%B0%E5%93%81%23&t=31&band_rank=23&Refer=top) `61.0K 🔥` 
+1. [宇树科技CEO回应春晚款机器人](https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80CEO%E5%9B%9E%E5%BA%94%E6%98%A5%E6%99%9A%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=23&Refer=top) `95.6K 🔥` 
 
-1. [正确走路姿势是用臀而不是腿](https://s.weibo.com/weibo?q=%E6%AD%A3%E7%A1%AE%E8%B5%B0%E8%B7%AF%E5%A7%BF%E5%8A%BF%E6%98%AF%E7%94%A8%E8%87%80%E8%80%8C%E4%B8%8D%E6%98%AF%E8%85%BF&t=31&band_rank=24&Refer=top) `60.9K 🔥` 
+1. [父亲去世摆摊卖对联男孩母亲发声](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E6%91%86%E6%91%8A%E5%8D%96%E5%AF%B9%E8%81%94%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=24&Refer=top) `95.5K 🔥` 
 
-1. [宋小宝现挂](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%B0%8F%E5%AE%9D%E7%8E%B0%E6%8C%82%23&t=31&band_rank=25&Refer=top) `60.8K 🔥` 
+1. [四士同堂的小品彩蛋埋在千问里](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A3%AB%E5%90%8C%E5%A0%82%E7%9A%84%E5%B0%8F%E5%93%81%E5%BD%A9%E8%9B%8B%E5%9F%8B%E5%9C%A8%E5%8D%83%E9%97%AE%E9%87%8C%23&t=31&band_rank=25&Refer=top) `95.3K 🔥` 
 
-1. [B站小品 笑力竭了](https://s.weibo.com/weibo?q=B%E7%AB%99%E5%B0%8F%E5%93%81%20%E7%AC%91%E5%8A%9B%E7%AB%AD%E4%BA%86&t=31&band_rank=26&Refer=top) `60.6K 🔥` 
+1. [陈小春父子三人共用一张脸](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E7%88%B6%E5%AD%90%E4%B8%89%E4%BA%BA%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23&t=31&band_rank=26&Refer=top) `95.1K 🔥` 
 
-1. [马斯克机器人涉色情被爱尔兰调查](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B6%89%E8%89%B2%E6%83%85%E8%A2%AB%E7%88%B1%E5%B0%94%E5%85%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=27&Refer=top) `60.3K 🔥` 
+1. [王楠任主教练](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%A0%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83%23&t=31&band_rank=27&Refer=top) `94.9K 🔥` 
 
-1. [女生上门做年夜饭10个菜包食材1888元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%8A%E9%97%A8%E5%81%9A%E5%B9%B4%E5%A4%9C%E9%A5%AD10%E4%B8%AA%E8%8F%9C%E5%8C%85%E9%A3%9F%E6%9D%901888%E5%85%83%23&t=31&band_rank=28&Refer=top) `60.1K 🔥` 
+1. [镖人口碑](https://s.weibo.com/weibo?q=%23%E9%95%96%E4%BA%BA%E5%8F%A3%E7%A2%91%23&t=31&band_rank=28&Refer=top) `94.7K 🔥` 
 
-1. [瞿颖胡兵 为啥没在一起](https://s.weibo.com/weibo?q=%E7%9E%BF%E9%A2%96%E8%83%A1%E5%85%B5%20%E4%B8%BA%E5%95%A5%E6%B2%A1%E5%9C%A8%E4%B8%80%E8%B5%B7&t=31&band_rank=29&Refer=top) `59.9K 🔥` 
+1. [王楚然美到成何体统](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%BE%8E%E5%88%B0%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%23&t=31&band_rank=29&Refer=top) `94.6K 🔥` 
 
-1. [不是年味淡了而是轮到我们做主了](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%98%AF%E5%B9%B4%E5%91%B3%E6%B7%A1%E4%BA%86%E8%80%8C%E6%98%AF%E8%BD%AE%E5%88%B0%E6%88%91%E4%BB%AC%E5%81%9A%E4%B8%BB%E4%BA%86&t=31&band_rank=30&Refer=top) `59.5K 🔥` 
+1. [全国初二回娘家的女婿belike](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%88%9D%E4%BA%8C%E5%9B%9E%E5%A8%98%E5%AE%B6%E7%9A%84%E5%A5%B3%E5%A9%BFbelike%23&t=31&band_rank=30&Refer=top) `94.6K 🔥` 
 
-1. [春晚总导演说贺花神非常非常难](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%80%BB%E5%AF%BC%E6%BC%94%E8%AF%B4%E8%B4%BA%E8%8A%B1%E7%A5%9E%E9%9D%9E%E5%B8%B8%E9%9D%9E%E5%B8%B8%E9%9A%BE%23&t=31&band_rank=31&Refer=top) `59.3K 🔥` 
+1. [日本要当冤大头了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A6%81%E5%BD%93%E5%86%A4%E5%A4%A7%E5%A4%B4%E4%BA%86%23&t=31&band_rank=31&Refer=top) `94.4K 🔥` 
 
-1. [还是B站春晚敢演](https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%98%AFB%E7%AB%99%E6%98%A5%E6%99%9A%E6%95%A2%E6%BC%94%23&t=31&band_rank=32&Refer=top) `59.1K 🔥` 
+1. [央视春晚直播总收视份额创13年来新高](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E7%9B%B4%E6%92%AD%E6%80%BB%E6%94%B6%E8%A7%86%E4%BB%BD%E9%A2%9D%E5%88%9B13%E5%B9%B4%E6%9D%A5%E6%96%B0%E9%AB%98&t=31&band_rank=32&Refer=top) `93.1K 🔥` 
 
-1. [父母出门孩子点外卖招待亲戚](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%87%BA%E9%97%A8%E5%AD%A9%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E6%8B%9B%E5%BE%85%E4%BA%B2%E6%88%9A%23&t=31&band_rank=33&Refer=top) `59.1K 🔥` 
+1. [七旬母亲坐客厅一夜未眠等女儿回家](https://s.weibo.com/weibo?q=%23%E4%B8%83%E6%97%AC%E6%AF%8D%E4%BA%B2%E5%9D%90%E5%AE%A2%E5%8E%85%E4%B8%80%E5%A4%9C%E6%9C%AA%E7%9C%A0%E7%AD%89%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=33&Refer=top) `91.2K 🔥` 
 
-1. [蓝盈莹央视年度观众喜爱演员](https://s.weibo.com/weibo?q=%E8%93%9D%E7%9B%88%E8%8E%B9%E5%A4%AE%E8%A7%86%E5%B9%B4%E5%BA%A6%E8%A7%82%E4%BC%97%E5%96%9C%E7%88%B1%E6%BC%94%E5%91%98&t=31&band_rank=34&Refer=top) `58.9K 🔥` 
+1. [春晚看迪丽热巴看入迷了](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E7%9C%8B%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%8B%E5%85%A5%E8%BF%B7%E4%BA%86%23&t=31&band_rank=34&Refer=top) `87.8K 🔥` 
 
-1. [父亲去世摆摊卖对联男孩母亲发声](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E6%91%86%E6%91%8A%E5%8D%96%E5%AF%B9%E8%81%94%E7%94%B7%E5%AD%A9%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=35&Refer=top) `57.1K 🔥` 
+1. [蔡徐坤迪拜音乐节](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%BF%AA%E6%8B%9C%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=35&Refer=top) `85.2K 🔥` 
 
-1. [孟子义在刻意增肥](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%9C%A8%E5%88%BB%E6%84%8F%E5%A2%9E%E8%82%A5%23&t=31&band_rank=36&Refer=top) `56.3K 🔥` 
+1. [谈恋爱要跟有少年气的人谈](https://s.weibo.com/weibo?q=%E8%B0%88%E6%81%8B%E7%88%B1%E8%A6%81%E8%B7%9F%E6%9C%89%E5%B0%91%E5%B9%B4%E6%B0%94%E7%9A%84%E4%BA%BA%E8%B0%88&t=31&band_rank=36&Refer=top) `84.0K 🔥` 
 
-1. [沙溢给白鹿发了多少压岁钱](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E7%BB%99%E7%99%BD%E9%B9%BF%E5%8F%91%E4%BA%86%E5%A4%9A%E5%B0%91%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=37&Refer=top) `56.1K 🔥` 
+1. [都穿亮片裙不告诉王玉雯](https://s.weibo.com/weibo?q=%E9%83%BD%E7%A9%BF%E4%BA%AE%E7%89%87%E8%A3%99%E4%B8%8D%E5%91%8A%E8%AF%89%E7%8E%8B%E7%8E%89%E9%9B%AF&t=31&band_rank=37&Refer=top) `80.6K 🔥` 
 
-1. [千万别贪便宜买监控](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E5%88%AB%E8%B4%AA%E4%BE%BF%E5%AE%9C%E4%B9%B0%E7%9B%91%E6%8E%A7&t=31&band_rank=38&Refer=top) `53.7K 🔥` 
+1. [王楚然花神造型解析](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E7%84%B6%E8%8A%B1%E7%A5%9E%E9%80%A0%E5%9E%8B%E8%A7%A3%E6%9E%90%23&t=31&band_rank=38&Refer=top) `78.6K 🔥` 
 
-1. [蔡徐坤迪拜音乐节](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%BF%AA%E6%8B%9C%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=39&Refer=top) `52.5K 🔥` 
+1. [你说这是王安宇路演生图](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%AF%B4%E8%BF%99%E6%98%AF%E7%8E%8B%E5%AE%89%E5%AE%87%E8%B7%AF%E6%BC%94%E7%94%9F%E5%9B%BE&t=31&band_rank=39&Refer=top) `78.6K 🔥` 
 
-1. [金价银价直线跳水](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4&t=31&band_rank=40&Refer=top) `50.7K 🔥` 
+1. [义乌的梗多到追不过来](https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E7%9A%84%E6%A2%97%E5%A4%9A%E5%88%B0%E8%BF%BD%E4%B8%8D%E8%BF%87%E6%9D%A5%23&t=31&band_rank=40&Refer=top) `78.5K 🔥` 
 
-1. [成何体统 与妻书](https://s.weibo.com/weibo?q=%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F%20%E4%B8%8E%E5%A6%BB%E4%B9%A6&t=31&band_rank=41&Refer=top) `49.2K 🔥` 
+1. [年货从夯到拉](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%B4%A7%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89&t=31&band_rank=41&Refer=top) `78.5K 🔥` 
 
-1. [母女过年炸丸子变大型翻车现场](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E8%BF%87%E5%B9%B4%E7%82%B8%E4%B8%B8%E5%AD%90%E5%8F%98%E5%A4%A7%E5%9E%8B%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=42&Refer=top) `45.1K 🔥` 
+1. [镖人玉面鬼](https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA%E7%8E%89%E9%9D%A2%E9%AC%BC&t=31&band_rank=42&Refer=top) `73.7K 🔥` 
 
-1. [比艺人还帅的韩国花滑天才](https://s.weibo.com/weibo?q=%23%E6%AF%94%E8%89%BA%E4%BA%BA%E8%BF%98%E5%B8%85%E7%9A%84%E9%9F%A9%E5%9B%BD%E8%8A%B1%E6%BB%91%E5%A4%A9%E6%89%8D%23&t=31&band_rank=43&Refer=top) `44.9K 🔥` 
+1. [女子楼道晾晒16斤咸肉撒手没](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%A5%BC%E9%81%93%E6%99%BE%E6%99%9216%E6%96%A4%E5%92%B8%E8%82%89%E6%92%92%E6%89%8B%E6%B2%A1%23&t=31&band_rank=43&Refer=top) `73.3K 🔥` 
 
-1. [宁忠岩回应中国速滑男团铜牌](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%23&t=31&band_rank=44&Refer=top) `43.3K 🔥` 
+1. [刘瀚彬夺铜瞬间绷不住哭了](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%80%9A%E5%BD%AC%E5%A4%BA%E9%93%9C%E7%9E%AC%E9%97%B4%E7%BB%B7%E4%B8%8D%E4%BD%8F%E5%93%AD%E4%BA%86%23&t=31&band_rank=44&Refer=top) `73.1K 🔥` 
 
-1. [原来马生气了也会已读不回](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E7%94%9F%E6%B0%94%E4%BA%86%E4%B9%9F%E4%BC%9A%E5%B7%B2%E8%AF%BB%E4%B8%8D%E5%9B%9E%23&t=31&band_rank=45&Refer=top) `42.9K 🔥` 
+1. [今年所有法定假日全与周末重合](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E6%89%80%E6%9C%89%E6%B3%95%E5%AE%9A%E5%81%87%E6%97%A5%E5%85%A8%E4%B8%8E%E5%91%A8%E6%9C%AB%E9%87%8D%E5%90%88&t=31&band_rank=45&Refer=top) `69.6K 🔥` 
 
-1. [王菲同款耳环官网售罄](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%90%8C%E6%AC%BE%E8%80%B3%E7%8E%AF%E5%AE%98%E7%BD%91%E5%94%AE%E7%BD%84%23&t=31&band_rank=46&Refer=top) `42.4K 🔥` 
+1. [黄金白银大跌原因找到了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=46&Refer=top) `69.2K 🔥` 
 
-1. [镖人 真的好看](https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA%20%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%9C%8B&t=31&band_rank=47&Refer=top) `41.4K 🔥` 
+1. [小酒窝做管乐的花童了](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%85%92%E7%AA%9D%E5%81%9A%E7%AE%A1%E4%B9%90%E7%9A%84%E8%8A%B1%E7%AB%A5%E4%BA%86&t=31&band_rank=47&Refer=top) `67.4K 🔥` 
 
-1. [哈梅内伊说特朗普你也做不到](https://s.weibo.com/weibo?q=%23%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E8%AF%B4%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%A0%E4%B9%9F%E5%81%9A%E4%B8%8D%E5%88%B0%23&t=31&band_rank=48&Refer=top) `41.4K 🔥` 
+1. [王一博闪耀动起来春晚舞台TOP1](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%97%AA%E8%80%80%E5%8A%A8%E8%B5%B7%E6%9D%A5%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0TOP1%23&t=31&band_rank=48&Refer=top) `65.7K 🔥` 
 
-1. [我发现大多数人都不会真正的休息](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E9%83%BD%E4%B8%8D%E4%BC%9A%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%BC%91%E6%81%AF%23&t=31&band_rank=49&Refer=top) `40.7K 🔥` 
+1. [为什么三文鱼一般生吃](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%89%E6%96%87%E9%B1%BC%E4%B8%80%E8%88%AC%E7%94%9F%E5%90%83%23&t=31&band_rank=49&Refer=top) `64.3K 🔥` 
 
-1. [95后女生上门做年夜饭爆单月入4万](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E7%94%9F%E4%B8%8A%E9%97%A8%E5%81%9A%E5%B9%B4%E5%A4%9C%E9%A5%AD%E7%88%86%E5%8D%95%E6%9C%88%E5%85%A54%E4%B8%87%23&t=31&band_rank=50&Refer=top) `40.5K 🔥` 
+1. [宋小宝现挂](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%B0%8F%E5%AE%9D%E7%8E%B0%E6%8C%82%23&t=31&band_rank=50&Refer=top) `63.7K 🔥` 
 
