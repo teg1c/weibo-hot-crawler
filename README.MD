@@ -5,104 +5,104 @@
 微博热榜爬虫，利用 Github Action 的调度脚本更新 BY PHP 
 
 
-## 微博今日热榜 更新于 2026-11-15 09:00:57 
-1. [BLG夺冠](https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0&t=31&band_rank=1&Refer=top) `24.3M 🔥` 
+## 微博今日热榜 更新于 2026-11-15 15:50:25 
+1. [Knight曝打1分钟就发现chovy不对劲](https://s.weibo.com/weibo?q=%23Knight%E6%9B%9D%E6%89%931%E5%88%86%E9%92%9F%E5%B0%B1%E5%8F%91%E7%8E%B0chovy%E4%B8%8D%E5%AF%B9%E5%8A%B2%23&t=31&band_rank=1&Refer=top) `2.0M 🔥` 
 
-1. [GEN对战BLG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=2&Refer=top) `5.2M 🔥` 
+1. [业内不建议买500元以下羽绒服](https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%B9%B0500%E5%85%83%E4%BB%A5%E4%B8%8B%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=2&Refer=top) `982.4K 🔥` 
 
-1. [十五五时期中国储能新上加新](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E6%97%B6%E6%9C%9F%E4%B8%AD%E5%9B%BD%E5%82%A8%E8%83%BD%E6%96%B0%E4%B8%8A%E5%8A%A0%E6%96%B0%23&t=31&band_rank=3&Refer=top) `5.0M 🔥` 
+1. [115家世界500强企业参加工商峰会](https://s.weibo.com/weibo?q=%23115%E5%AE%B6%E4%B8%96%E7%95%8C500%E5%BC%BA%E4%BC%81%E4%B8%9A%E5%8F%82%E5%8A%A0%E5%B7%A5%E5%95%86%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) `768.8K 🔥` 
 
-1. [Bin成为LPL历史首位大满贯上路选手](https://s.weibo.com/weibo?q=%23Bin%E6%88%90%E4%B8%BALPL%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%8A%E8%B7%AF%E9%80%89%E6%89%8B%23&t=31&band_rank=4&Refer=top) `4.9M 🔥` 
+1. [Knight赛后感谢Faker](https://s.weibo.com/weibo?q=%23Knight%E8%B5%9B%E5%90%8E%E6%84%9F%E8%B0%A2Faker%23&t=31&band_rank=4&Refer=top) `751.3K 🔥` 
 
-1. [boss直聘暂停要求带咖啡公司账号权限](https://s.weibo.com/weibo?q=%23boss%E7%9B%B4%E8%81%98%E6%9A%82%E5%81%9C%E8%A6%81%E6%B1%82%E5%B8%A6%E5%92%96%E5%95%A1%E5%85%AC%E5%8F%B8%E8%B4%A6%E5%8F%B7%E6%9D%83%E9%99%90%23&t=31&band_rank=5&Refer=top) `836.8K 🔥` 
+1. [Viper回应是否留在BLG](https://s.weibo.com/weibo?q=%23Viper%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E7%95%99%E5%9C%A8BLG%23&t=31&band_rank=5&Refer=top) `709.3K 🔥` 
 
-1. [BLG最有含金量S冠](https://s.weibo.com/weibo?q=%23BLG%E6%9C%80%E6%9C%89%E5%90%AB%E9%87%91%E9%87%8FS%E5%86%A0%23&t=31&band_rank=6&Refer=top) `770.3K 🔥` 
+1. [宝马735Li降到48点8万](https://s.weibo.com/weibo?q=%E5%AE%9D%E9%A9%AC735Li%E9%99%8D%E5%88%B048%E7%82%B98%E4%B8%87&t=31&band_rank=6&Refer=top) `439.4K 🔥` 
 
-1. [孩子觉得打包丢人被老师扣分引热议](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%A7%89%E5%BE%97%E6%89%93%E5%8C%85%E4%B8%A2%E4%BA%BA%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%A3%E5%88%86%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=7&Refer=top) `690.9K 🔥` 
+1. [蔡文静妈妈五年前确诊肺癌](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%A6%88%E5%A6%88%E4%BA%94%E5%B9%B4%E5%89%8D%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%99%8C%23&t=31&band_rank=7&Refer=top) `434.9K 🔥` 
 
-1. [Xun首次夺得全球总决赛冠军](https://s.weibo.com/weibo?q=%23Xun%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%BE%97%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=8&Refer=top) `682.5K 🔥` 
+1. [尖叫之夜阵容](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9&t=31&band_rank=8&Refer=top) `431.6K 🔥` 
 
-1. [疑似后会友期白小纯表白王子璇路透](https://s.weibo.com/weibo?q=%E7%96%91%E4%BC%BC%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%A1%A8%E7%99%BD%E7%8E%8B%E5%AD%90%E7%92%87%E8%B7%AF%E9%80%8F&t=31&band_rank=9&Refer=top) `662.6K 🔥` 
+1. [辱骂捐赠日军侵华罪证少年者道歉](https://s.weibo.com/weibo?q=%23%E8%BE%B1%E9%AA%82%E6%8D%90%E8%B5%A0%E6%97%A5%E5%86%9B%E4%BE%B5%E5%8D%8E%E7%BD%AA%E8%AF%81%E5%B0%91%E5%B9%B4%E8%80%85%E9%81%93%E6%AD%89%23&t=31&band_rank=9&Refer=top) `421.7K 🔥` 
 
-1. [白小纯承认辜负了信任](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B0%8F%E7%BA%AF%E6%89%BF%E8%AE%A4%E8%BE%9C%E8%B4%9F%E4%BA%86%E4%BF%A1%E4%BB%BB%23&t=31&band_rank=10&Refer=top) `635.5K 🔥` 
+1. [女孩5岁白血病终末期如今已45岁](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A95%E5%B2%81%E7%99%BD%E8%A1%80%E7%97%85%E7%BB%88%E6%9C%AB%E6%9C%9F%E5%A6%82%E4%BB%8A%E5%B7%B245%E5%B2%81%23&t=31&band_rank=10&Refer=top) `408.0K 🔥` 
 
-1. [Knight获决赛FMVP](https://s.weibo.com/weibo?q=%23Knight%E8%8E%B7%E5%86%B3%E8%B5%9BFMVP%23&t=31&band_rank=11&Refer=top) `607.2K 🔥` 
+1. [许飞退群原因](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E9%80%80%E7%BE%A4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=11&Refer=top) `407.3K 🔥` 
 
-1. [曝高迪抖音直播权限被永封](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%AB%98%E8%BF%AA%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD%E6%9D%83%E9%99%90%E8%A2%AB%E6%B0%B8%E5%B0%81%23&t=31&band_rank=12&Refer=top) `591.2K 🔥` 
+1. [Bin 世一上](https://s.weibo.com/weibo?q=Bin%20%E4%B8%96%E4%B8%80%E4%B8%8A&t=31&band_rank=12&Refer=top) `394.5K 🔥` 
 
-1. [王乐乐](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B9%90%E4%B9%90&t=31&band_rank=13&Refer=top) `589.0K 🔥` 
+1. [TheShy历史地位遭重估](https://s.weibo.com/weibo?q=TheShy%E5%8E%86%E5%8F%B2%E5%9C%B0%E4%BD%8D%E9%81%AD%E9%87%8D%E4%BC%B0&t=31&band_rank=13&Refer=top) `376.0K 🔥` 
 
-1. [王一博方辟谣网传Whoop账号](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0Whoop%E8%B4%A6%E5%8F%B7%23&t=31&band_rank=14&Refer=top) `578.5K 🔥` 
+1. [谭开心自曝与高迪合作经历](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E5%BC%80%E5%BF%83%E8%87%AA%E6%9B%9D%E4%B8%8E%E9%AB%98%E8%BF%AA%E5%90%88%E4%BD%9C%E7%BB%8F%E5%8E%86%23&t=31&band_rank=14&Refer=top) `364.7K 🔥` 
 
-1. [葡萄牙1比4惨败丹麦](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%991%E6%AF%944%E6%83%A8%E8%B4%A5%E4%B8%B9%E9%BA%A6%23&t=31&band_rank=15&Refer=top) `568.3K 🔥` 
+1. [董思成帮杨超越盖毯子好顺手](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%80%9D%E6%88%90%E5%B8%AE%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%9B%96%E6%AF%AF%E5%AD%90%E5%A5%BD%E9%A1%BA%E6%89%8B%23&t=31&band_rank=15&Refer=top) `356.0K 🔥` 
 
-1. [管泽元说我们是冠军](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E8%AF%B4%E6%88%91%E4%BB%AC%E6%98%AF%E5%86%A0%E5%86%9B%23&t=31&band_rank=16&Refer=top) `561.0K 🔥` 
+1. [许飞厉娜 神一天鬼一天](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%8E%89%E5%A8%9C%20%E7%A5%9E%E4%B8%80%E5%A4%A9%E9%AC%BC%E4%B8%80%E5%A4%A9&t=31&band_rank=16&Refer=top) `355.9K 🔥` 
 
-1. [央视曝光假牛肉案](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%81%87%E7%89%9B%E8%82%89%E6%A1%88%23&t=31&band_rank=17&Refer=top) `546.8K 🔥` 
+1. [中国砒霜治疗成国际方案](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A0%92%E9%9C%9C%E6%B2%BB%E7%96%97%E6%88%90%E5%9B%BD%E9%99%85%E6%96%B9%E6%A1%88%23&t=31&band_rank=17&Refer=top) `310.9K 🔥` 
 
-1. [曝爱奇艺尖叫之夜座位双C](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%BA%A7%E4%BD%8D%E5%8F%8CC%23&t=31&band_rank=18&Refer=top) `534.5K 🔥` 
+1. [员工蹲厕所1小时被辞起诉公司](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E8%B9%B2%E5%8E%95%E6%89%801%E5%B0%8F%E6%97%B6%E8%A2%AB%E8%BE%9E%E8%B5%B7%E8%AF%89%E5%85%AC%E5%8F%B8%23&t=31&band_rank=18&Refer=top) `309.3K 🔥` 
 
-1. [这要放十年前谁会觉得假](https://s.weibo.com/weibo?q=%E8%BF%99%E8%A6%81%E6%94%BE%E5%8D%81%E5%B9%B4%E5%89%8D%E8%B0%81%E4%BC%9A%E8%A7%89%E5%BE%97%E5%81%87&t=31&band_rank=19&Refer=top) `529.1K 🔥` 
+1. [大美妈妈回应](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BE%8E%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%23&t=31&band_rank=19&Refer=top) `306.4K 🔥` 
 
-1. [星舰超重型助推器回收时爆炸](https://s.weibo.com/weibo?q=%E6%98%9F%E8%88%B0%E8%B6%85%E9%87%8D%E5%9E%8B%E5%8A%A9%E6%8E%A8%E5%99%A8%E5%9B%9E%E6%94%B6%E6%97%B6%E7%88%86%E7%82%B8&t=31&band_rank=20&Refer=top) `519.8K 🔥` 
+1. [我选择横店作为我的秋假解药](https://s.weibo.com/weibo?q=%23%E6%88%91%E9%80%89%E6%8B%A9%E6%A8%AA%E5%BA%97%E4%BD%9C%E4%B8%BA%E6%88%91%E7%9A%84%E7%A7%8B%E5%81%87%E8%A7%A3%E8%8D%AF%23&t=31&band_rank=20&Refer=top) `303.2K 🔥` 
 
-1. [BLG](https://s.weibo.com/weibo?q=BLG&t=31&band_rank=21&Refer=top) `514.6K 🔥` 
+1. [Bin成为LPL历史首位大满贯上路选手](https://s.weibo.com/weibo?q=%23Bin%E6%88%90%E4%B8%BALPL%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%8A%E8%B7%AF%E9%80%89%E6%89%8B%23&t=31&band_rank=21&Refer=top) `300.9K 🔥` 
 
-1. [Ning说Chovy真同意了](https://s.weibo.com/weibo?q=%23Ning%E8%AF%B4Chovy%E7%9C%9F%E5%90%8C%E6%84%8F%E4%BA%86%23&t=31&band_rank=22&Refer=top) `506.0K 🔥` 
+1. [BLG夺冠引来半个娱乐圈](https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0%E5%BC%95%E6%9D%A5%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%23&t=31&band_rank=22&Refer=top) `298.2K 🔥` 
 
-1. [女性不被结婚生子占满人生](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%80%A7%E4%B8%8D%E8%A2%AB%E7%BB%93%E5%A9%9A%E7%94%9F%E5%AD%90%E5%8D%A0%E6%BB%A1%E4%BA%BA%E7%94%9F&t=31&band_rank=23&Refer=top) `491.1K 🔥` 
+1. [爱奇艺尖叫之夜涨价](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=23&Refer=top) `295.3K 🔥` 
 
-1. [BLG发文我们是冠军](https://s.weibo.com/weibo?q=%23BLG%E5%8F%91%E6%96%87%E6%88%91%E4%BB%AC%E6%98%AF%E5%86%A0%E5%86%9B%23&t=31&band_rank=24&Refer=top) `484.2K 🔥` 
+1. [青稚 白小纯](https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%20%E7%99%BD%E5%B0%8F%E7%BA%AF&t=31&band_rank=24&Refer=top) `286.9K 🔥` 
 
-1. [睡眠不足的人长期处于应激状态](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E9%95%BF%E6%9C%9F%E5%A4%84%E4%BA%8E%E5%BA%94%E6%BF%80%E7%8A%B6%E6%80%81%23&t=31&band_rank=25&Refer=top) `477.6K 🔥` 
+1. [家长举报学校安排学生打扫厕所](https://s.weibo.com/weibo?q=%E5%AE%B6%E9%95%BF%E4%B8%BE%E6%8A%A5%E5%AD%A6%E6%A0%A1%E5%AE%89%E6%8E%92%E5%AD%A6%E7%94%9F%E6%89%93%E6%89%AB%E5%8E%95%E6%89%80&t=31&band_rank=25&Refer=top) `257.3K 🔥` 
 
-1. [为什么说杀人容易藏尸难](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%9D%80%E4%BA%BA%E5%AE%B9%E6%98%93%E8%97%8F%E5%B0%B8%E9%9A%BE&t=31&band_rank=26&Refer=top) `477.6K 🔥` 
+1. [BLG夺冠Tim送iPhoneDuo](https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0Tim%E9%80%81iPhoneDuo%23&t=31&band_rank=26&Refer=top) `252.1K 🔥` 
 
-1. [新疆就是一个巨大的干燥剂](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%B9%B2%E7%87%A5%E5%89%82&t=31&band_rank=27&Refer=top) `477.5K 🔥` 
+1. [牌子猫](https://s.weibo.com/weibo?q=%E7%89%8C%E5%AD%90%E7%8C%AB&t=31&band_rank=27&Refer=top) `248.8K 🔥` 
 
-1. [拒请咖啡取消面试公司已经营异常](https://s.weibo.com/weibo?q=%23%E6%8B%92%E8%AF%B7%E5%92%96%E5%95%A1%E5%8F%96%E6%B6%88%E9%9D%A2%E8%AF%95%E5%85%AC%E5%8F%B8%E5%B7%B2%E7%BB%8F%E8%90%A5%E5%BC%82%E5%B8%B8%23&t=31&band_rank=28&Refer=top) `477.4K 🔥` 
+1. [Tim说还有76台iPhoneDuo没送](https://s.weibo.com/weibo?q=%23Tim%E8%AF%B4%E8%BF%98%E6%9C%8976%E5%8F%B0iPhoneDuo%E6%B2%A1%E9%80%81%23&t=31&band_rank=28&Refer=top) `230.1K 🔥` 
 
-1. [C罗退役后葡萄牙首战惨败](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E9%80%80%E5%BD%B9%E5%90%8E%E8%91%A1%E8%90%84%E7%89%99%E9%A6%96%E6%88%98%E6%83%A8%E8%B4%A5%23&t=31&band_rank=29&Refer=top) `477.4K 🔥` 
+1. [2026王者荣耀巅峰之夜](https://s.weibo.com/weibo?q=2026%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C&t=31&band_rank=29&Refer=top) `213.5K 🔥` 
 
-1. [百元大钞花束不是表白是洗钱](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%85%83%E5%A4%A7%E9%92%9E%E8%8A%B1%E6%9D%9F%E4%B8%8D%E6%98%AF%E8%A1%A8%E7%99%BD%E6%98%AF%E6%B4%97%E9%92%B1%23&t=31&band_rank=30&Refer=top) `477.3K 🔥` 
+1. [女子花1千翻新3件羽绒服直呼划算](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B11%E5%8D%83%E7%BF%BB%E6%96%B03%E4%BB%B6%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%9B%B4%E5%91%BC%E5%88%92%E7%AE%97%23&t=31&band_rank=30&Refer=top) `213.2K 🔥` 
 
-1. [LCK解说看BLG扳平GEN惨叫不断](https://s.weibo.com/weibo?q=%23LCK%E8%A7%A3%E8%AF%B4%E7%9C%8BBLG%E6%89%B3%E5%B9%B3GEN%E6%83%A8%E5%8F%AB%E4%B8%8D%E6%96%AD%23&t=31&band_rank=31&Refer=top) `477.2K 🔥` 
+1. [范丞丞没给沈腾宋亚轩P墨镜](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B2%A1%E7%BB%99%E6%B2%88%E8%85%BE%E5%AE%8B%E4%BA%9A%E8%BD%A9P%E5%A2%A8%E9%95%9C%23&t=31&band_rank=31&Refer=top) `212.7K 🔥` 
 
-1. [雷鸟到底看了多远](https://s.weibo.com/weibo?q=%E9%9B%B7%E9%B8%9F%E5%88%B0%E5%BA%95%E7%9C%8B%E4%BA%86%E5%A4%9A%E8%BF%9C&t=31&band_rank=32&Refer=top) `477.1K 🔥` 
+1. [律师回应技师遭性侵要2千体检费](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%9B%9E%E5%BA%94%E6%8A%80%E5%B8%88%E9%81%AD%E6%80%A7%E4%BE%B5%E8%A6%812%E5%8D%83%E4%BD%93%E6%A3%80%E8%B4%B9%23&t=31&band_rank=32&Refer=top) `211.4K 🔥` 
 
-1. [白小纯居然是来报恩的](https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E5%B1%85%E7%84%B6%E6%98%AF%E6%9D%A5%E6%8A%A5%E6%81%A9%E7%9A%84&t=31&band_rank=33&Refer=top) `477.1K 🔥` 
+1. [沈腾的享界V8座椅会横移贴贴](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E7%9A%84%E4%BA%AB%E7%95%8CV8%E5%BA%A7%E6%A4%85%E4%BC%9A%E6%A8%AA%E7%A7%BB%E8%B4%B4%E8%B4%B4%23&t=31&band_rank=33&Refer=top) `210.9K 🔥` 
 
-1. [管泽元](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&t=31&band_rank=34&Refer=top) `477.0K 🔥` 
+1. [问界新M8搭载面向L3级智能辅助驾驶架构设计](https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8C%E6%96%B0M8%E6%90%AD%E8%BD%BD%E9%9D%A2%E5%90%91L3%E7%BA%A7%E6%99%BA%E8%83%BD%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%23&t=31&band_rank=34&Refer=top) `210.0K 🔥` 
 
-1. [Bin泪洒赛场](https://s.weibo.com/weibo?q=%23Bin%E6%B3%AA%E6%B4%92%E8%B5%9B%E5%9C%BA%23&t=31&band_rank=35&Refer=top) `476.9K 🔥` 
+1. [黄子韬工作室望尊重事实](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%9C%9B%E5%B0%8A%E9%87%8D%E4%BA%8B%E5%AE%9E%23&t=31&band_rank=35&Refer=top) `209.6K 🔥` 
 
-1. [BLG团战](https://s.weibo.com/weibo?q=BLG%E5%9B%A2%E6%88%98&t=31&band_rank=36&Refer=top) `476.9K 🔥` 
+1. [BLG夺冠B站送大会员细则公布](https://s.weibo.com/weibo?q=%23BLG%E5%A4%BA%E5%86%A0B%E7%AB%99%E9%80%81%E5%A4%A7%E4%BC%9A%E5%91%98%E7%BB%86%E5%88%99%E5%85%AC%E5%B8%83%23&t=31&band_rank=36&Refer=top) `208.5K 🔥` 
 
-1. [白鹿带着三个作品走了三次红毯](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%B8%A6%E7%9D%80%E4%B8%89%E4%B8%AA%E4%BD%9C%E5%93%81%E8%B5%B0%E4%BA%86%E4%B8%89%E6%AC%A1%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=37&Refer=top) `476.8K 🔥` 
+1. [范丞丞现发4长城合照](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%B0%E5%8F%914%E9%95%BF%E5%9F%8E%E5%90%88%E7%85%A7%23&t=31&band_rank=37&Refer=top) `207.9K 🔥` 
 
-1. [许飞听到不负少年不负卿上热搜的反应](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%E5%90%AC%E5%88%B0%E4%B8%8D%E8%B4%9F%E5%B0%91%E5%B9%B4%E4%B8%8D%E8%B4%9F%E5%8D%BF%E4%B8%8A%E7%83%AD%E6%90%9C%E7%9A%84%E5%8F%8D%E5%BA%94&t=31&band_rank=38&Refer=top) `476.7K 🔥` 
+1. [Tim回应送iPhoneDuo](https://s.weibo.com/weibo?q=%23Tim%E5%9B%9E%E5%BA%94%E9%80%81iPhoneDuo%23&t=31&band_rank=38&Refer=top) `207.0K 🔥` 
 
-1. [吃完鸡爪肚子痛服务区还有二十公里](https://s.weibo.com/weibo?q=%E5%90%83%E5%AE%8C%E9%B8%A1%E7%88%AA%E8%82%9A%E5%AD%90%E7%97%9B%E6%9C%8D%E5%8A%A1%E5%8C%BA%E8%BF%98%E6%9C%89%E4%BA%8C%E5%8D%81%E5%85%AC%E9%87%8C&t=31&band_rank=39&Refer=top) `476.7K 🔥` 
+1. [辽阳广播电视台主持人张雪峰去世](https://s.weibo.com/weibo?q=%E8%BE%BD%E9%98%B3%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%8E%BB%E4%B8%96&t=31&band_rank=39&Refer=top) `205.8K 🔥` 
 
-1. [英雄联盟曙光预约](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%9B%99%E5%85%89%E9%A2%84%E7%BA%A6&t=31&band_rank=40&Refer=top) `476.6K 🔥` 
+1. [钎九不清冰十周年合体](https://s.weibo.com/weibo?q=%23%E9%92%8E%E4%B9%9D%E4%B8%8D%E6%B8%85%E5%86%B0%E5%8D%81%E5%91%A8%E5%B9%B4%E5%90%88%E4%BD%93%23&t=31&band_rank=40&Refer=top) `205.5K 🔥` 
 
-1. [难怪白敬亭印象中宋亚轩很安静](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8D%B0%E8%B1%A1%E4%B8%AD%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%BE%88%E5%AE%89%E9%9D%99%23&t=31&band_rank=41&Refer=top) `476.5K 🔥` 
+1. [王一博whoop账号根本经不起推敲](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9Awhoop%E8%B4%A6%E5%8F%B7%E6%A0%B9%E6%9C%AC%E7%BB%8F%E4%B8%8D%E8%B5%B7%E6%8E%A8%E6%95%B2%23&t=31&band_rank=41&Refer=top) `204.9K 🔥` 
 
-1. [原来热暴力真的比冷暴力有用](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%83%AD%E6%9A%B4%E5%8A%9B%E7%9C%9F%E7%9A%84%E6%AF%94%E5%86%B7%E6%9A%B4%E5%8A%9B%E6%9C%89%E7%94%A8&t=31&band_rank=42&Refer=top) `476.4K 🔥` 
+1. [郭晓东临时给张杰打电话看演唱会](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%93%E4%B8%9C%E4%B8%B4%E6%97%B6%E7%BB%99%E5%BC%A0%E6%9D%B0%E6%89%93%E7%94%B5%E8%AF%9D%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=42&Refer=top) `182.7K 🔥` 
 
-1. [暖阳夺冠发文](https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E5%A4%BA%E5%86%A0%E5%8F%91%E6%96%87%23&t=31&band_rank=43&Refer=top) `476.4K 🔥` 
+1. [昀牵孟绕](https://s.weibo.com/weibo?q=%E6%98%80%E7%89%B5%E5%AD%9F%E7%BB%95&t=31&band_rank=43&Refer=top) `163.2K 🔥` 
 
-1. [胎儿基因缺失竟牵出爸爸肠道癌变](https://s.weibo.com/weibo?q=%23%E8%83%8E%E5%84%BF%E5%9F%BA%E5%9B%A0%E7%BC%BA%E5%A4%B1%E7%AB%9F%E7%89%B5%E5%87%BA%E7%88%B8%E7%88%B8%E8%82%A0%E9%81%93%E7%99%8C%E5%8F%98%23&t=31&band_rank=44&Refer=top) `476.3K 🔥` 
+1. [Tim说难听话抽奖](https://s.weibo.com/weibo?q=Tim%E8%AF%B4%E9%9A%BE%E5%90%AC%E8%AF%9D%E6%8A%BD%E5%A5%96&t=31&band_rank=44&Refer=top) `160.6K 🔥` 
 
-1. [安德列娃首进年终决赛](https://s.weibo.com/weibo?q=%E5%AE%89%E5%BE%B7%E5%88%97%E5%A8%83%E9%A6%96%E8%BF%9B%E5%B9%B4%E7%BB%88%E5%86%B3%E8%B5%9B&t=31&band_rank=45&Refer=top) `476.2K 🔥` 
+1. [以为是高反了结果是憋坏了](https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%AB%98%E5%8F%8D%E4%BA%86%E7%BB%93%E6%9E%9C%E6%98%AF%E6%86%8B%E5%9D%8F%E4%BA%86&t=31&band_rank=45&Refer=top) `159.3K 🔥` 
 
-1. [谭开心曝高迪曾少付一千酬劳](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E5%BC%80%E5%BF%83%E6%9B%9D%E9%AB%98%E8%BF%AA%E6%9B%BE%E5%B0%91%E4%BB%98%E4%B8%80%E5%8D%83%E9%85%AC%E5%8A%B3%23&t=31&band_rank=46&Refer=top) `476.2K 🔥` 
+1. [好喜欢北京味的阴阳怪气](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%96%9C%E6%AC%A2%E5%8C%97%E4%BA%AC%E5%91%B3%E7%9A%84%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94&t=31&band_rank=46&Refer=top) `155.9K 🔥` 
 
-1. [资生堂集团放了肖战刘诗诗](https://s.weibo.com/weibo?q=%23%E8%B5%84%E7%94%9F%E5%A0%82%E9%9B%86%E5%9B%A2%E6%94%BE%E4%BA%86%E8%82%96%E6%88%98%E5%88%98%E8%AF%97%E8%AF%97%23&t=31&band_rank=47&Refer=top) `476.1K 🔥` 
+1. [樊振东德甲获MVP但WTT积分为0](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E8%8E%B7MVP%E4%BD%86WTT%E7%A7%AF%E5%88%86%E4%B8%BA0%23&t=31&band_rank=47&Refer=top) `151.8K 🔥` 
 
-1. [杨清柠 王乐乐](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B8%85%E6%9F%A0%20%E7%8E%8B%E4%B9%90%E4%B9%90&t=31&band_rank=48&Refer=top) `476.0K 🔥` 
+1. [为啥要把前面的扣子设计成磁吸扣](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E8%A6%81%E6%8A%8A%E5%89%8D%E9%9D%A2%E7%9A%84%E6%89%A3%E5%AD%90%E8%AE%BE%E8%AE%A1%E6%88%90%E7%A3%81%E5%90%B8%E6%89%A3%23&t=31&band_rank=48&Refer=top) `149.4K 🔥` 
 
-1. [曝高迪当年打刘叉叉前女友蛋蛋](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%AB%98%E8%BF%AA%E5%BD%93%E5%B9%B4%E6%89%93%E5%88%98%E5%8F%89%E5%8F%89%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%9B%8B%E8%9B%8B%23&t=31&band_rank=49&Refer=top) `476.0K 🔥` 
+1. [曝时代少年团综艺片酬](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%BB%BC%E8%89%BA%E7%89%87%E9%85%AC%23&t=31&band_rank=49&Refer=top) `141.9K 🔥` 
 
-1. [常州造全球最大无人货运飞机试飞成功](https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%B7%9E%E9%80%A0%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%97%A0%E4%BA%BA%E8%B4%A7%E8%BF%90%E9%A3%9E%E6%9C%BA%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F%23&t=31&band_rank=50&Refer=top) `475.9K 🔥` 
+1. [中国近六成家庭户不超过两个人](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%91%E5%85%AD%E6%88%90%E5%AE%B6%E5%BA%AD%E6%88%B7%E4%B8%8D%E8%B6%85%E8%BF%87%E4%B8%A4%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=50&Refer=top) `136.6K 🔥` 
 
